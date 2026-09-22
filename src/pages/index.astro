@@ -1,5 +1,32 @@
 ---
 // The homepage is the finished design, kept as one hand-built file.
+// Components are inserted around that markup so the legacy insights script is not also loaded.
+import Analytics from '@vercel/analytics/astro';
+import SpeedInsights from '@vercel/speed-insights/astro';
 import html from '../home.html?raw';
+
+const headOpen = '<head>';
+const headClose = '</head>';
+const bodyOpen = '<body>';
+const bodyClose = '</body>';
+const headStart = html.indexOf(headOpen);
+const headEnd = html.indexOf(headClose);
+const bodyStart = html.indexOf(bodyOpen);
+const bodyEnd = html.lastIndexOf(bodyClose);
+if (headStart < 0 || headEnd < 0 || bodyStart < 0 || bodyEnd < 0) {
+  throw new Error('Homepage HTML is missing head or body tags');
+}
+const head = html.slice(headStart + headOpen.length, headEnd);
+const body = html.slice(bodyStart + bodyOpen.length, bodyEnd);
 ---
-<Fragment set:html={html} />
+<!doctype html>
+<html lang="en-CA">
+<head>
+  <Fragment set:html={head} />
+</head>
+<body>
+  <Analytics />
+  <Fragment set:html={body} />
+  <SpeedInsights />
+</body>
+</html>
