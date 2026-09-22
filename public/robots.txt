@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gethandoff.ca/sitemap-index.xml

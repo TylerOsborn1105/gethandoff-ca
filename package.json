@@ -1,0 +1,17 @@
+{
+  "name": "handoff-site",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.4",
+    "astro": "^7.3.3"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}

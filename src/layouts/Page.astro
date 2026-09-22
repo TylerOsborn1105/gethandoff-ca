@@ -1,0 +1,176 @@
+---
+import mark from '../lib/mark.svg?raw';
+import { areas } from '../lib/content.js';
+
+const {
+  title,            // <title>
+  description,      // meta description
+  h1,
+  dek = '',
+  updated = '',
+  draft = false,
+  schema = [],      // extra JSON-LD objects
+  showByline = true,
+} = Astro.props;
+
+const canonical = new URL(Astro.url.pathname, Astro.site).href;
+const markHtml = mark.replace('<svg ', '<svg class="tile" aria-hidden="true" ');
+const areaLinks = areas();
+const book = 'https://calendly.com/tyler-echelontrades/handoff-free-hour';
+const updatedLabel = updated
+  ? new Date(updated + 'T12:00:00').toLocaleDateString('en-CA', { month: 'long', year: 'numeric' })
+  : '';
+---
+<!doctype html>
+<html lang="en-CA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>{title}</title>
+  <meta name="description" content={description}>
+  <link rel="canonical" href={canonical}>
+  {draft && <meta name="robots" content="noindex,nofollow">}
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content={canonical}>
+  <meta property="og:site_name" content="Handoff">
+  <meta property="og:title" content={h1}>
+  <meta property="og:description" content={description}>
+  <meta property="og:image" content={new URL('/og.png', Astro.site).href}>
+  <meta property="og:locale" content="en_CA">
+  <meta name="theme-color" content="#FFFFFF">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&display=swap" rel="stylesheet">
+  {schema.map((s) => <script type="application/ld+json" set:html={JSON.stringify(s)} />)}
+  <script is:inline defer src="/_vercel/insights/script.js"></script>
+</head>
+<body>
+  {draft && <div class="draftbar">Draft. Add your experience where it says TYLER, then set <code>draft: false</code>.</div>}
+  <div class="orb" aria-hidden="true"></div>
+  <header class="wrap bar">
+    <a class="mark" href="/"><Fragment set:html={markHtml} />Handoff</a>
+    <nav class="nav"><a class="navlink" href="/answers/">Plain answers</a><a class="btn sm" href={book} target="_blank" rel="noopener">Book</a></nav>
+  </header>
+
+  <main class="wrap">
+    <article>
+      <h1>{h1}</h1>
+      {dek && <p class="dek">{dek}</p>}
+      {showByline && <p class="byline">Tyler Calderwood{updatedLabel && <span>, updated {updatedLabel}</span>}</p>}
+      <div class="prose"><slot /></div>
+    </article>
+
+    <aside class="cta">
+      <p class="cta-lead">Want someone to look at this <span class="g">in your business?</span></p>
+      <p>A free hour at your place. You leave with one thing you can use the next day, and a short report on what I’d fix and what it would cost. If you don’t need me, I’ll tell you.</p>
+      <a class="btn" href={book} target="_blank" rel="noopener">Book your free hour</a>
+      <p class="small">or call or text <a href="tel:+16042038575">604 203 8575</a></p>
+    </aside>
+  </main>
+
+  <footer>
+    <div class="wrap foot">
+      <div>
+        <a class="mark small-mark" href="/"><Fragment set:html={markHtml} />Handoff</a>
+        <p>For small businesses in the Lower Mainland.</p>
+      </div>
+      <nav aria-label="Areas">
+        {areaLinks.map((a) => <a href={`/ai-help/${a.slug}/`}>{a.data.place}</a>)}
+      </nav>
+      <div class="contact">
+        <a href="/answers/">Plain answers</a>
+        <a href="tel:+16042038575">604 203 8575</a>
+        <a href="mailto:tyler@gethandoff.ca">tyler@gethandoff.ca</a>
+        <a href="/privacy/">Privacy</a>
+      </div>
+    </div>
+    <p class="wrap copy">© {new Date().getFullYear()} Handoff, Tsawwassen BC</p>
+  </footer>
+</body>
+</html>
+
+<style is:global>
+  :root{
+    color-scheme:light;
+    --bg:#FFFFFF; --ink:#0A0A0A; --title:#000; --ink-2:#6E6E73; --rule:#E5E5EA; --grey:#F5F5F7;
+    --btn:#141414; --btn-hi:#333; --tint:#FFF1E8; --warm:#B4461F;
+    --grad:linear-gradient(92deg,#F5A524 0%,#F97352 48%,#E4457A 100%);
+    --grad-text:linear-gradient(92deg,#C97A00 0%,#E5532F 50%,#D2336A 100%);
+    --sans:"Schibsted Grotesk","Grotesk Fallback",ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;
+  }
+  @font-face{font-family:"Grotesk Fallback";src:local("Arial");size-adjust:98%;ascent-override:96%;descent-override:26%;line-gap-override:0%}
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:18px;line-height:1.65;-webkit-font-smoothing:antialiased;overflow-x:hidden;position:relative}
+  a{color:var(--ink);text-decoration-color:rgba(0,0,0,.25);text-underline-offset:3px}
+  a:hover{text-decoration-color:currentColor}
+  a:focus-visible,.btn:focus-visible{outline:2px solid var(--ink);outline-offset:3px}
+  .wrap{max-width:1120px;margin:0 auto;padding:0 28px}
+  .orb{position:absolute;width:760px;height:560px;right:-260px;top:-240px;filter:blur(70px);opacity:.45;border-radius:50%;pointer-events:none;z-index:0;
+    background:radial-gradient(circle at 30% 60%,#FFC56B 0,transparent 42%),radial-gradient(circle at 55% 45%,#FF8A65 0,transparent 40%),radial-gradient(circle at 75% 60%,#F07AA0 0,transparent 42%)}
+  .draftbar{position:relative;z-index:3;background:var(--tint);color:var(--warm);font-size:15px;text-align:center;padding:10px 20px}
+  .draftbar code{font-family:inherit;font-weight:600}
+  .bar{position:relative;z-index:2;display:flex;justify-content:space-between;align-items:center;padding-top:22px;padding-bottom:22px;gap:16px}
+  .mark{display:inline-flex;align-items:center;gap:10px;font-size:22px;font-weight:800;letter-spacing:-.04em;color:var(--ink);text-decoration:none;white-space:nowrap}
+  .mark .tile{width:30px;height:30px;flex:none}
+  .nav{display:flex;align-items:center;gap:18px}
+  .navlink{font-size:15px;color:var(--ink-2);text-decoration:none}
+  .navlink:hover{color:var(--ink)}
+  .btn{display:inline-block;background:var(--btn);color:#fff;text-decoration:none;font-weight:600;font-size:16px;padding:15px 24px;border-radius:6px;transition:transform .2s,background .2s;box-shadow:0 10px 24px -12px rgba(0,0,0,.35)}
+  .btn:hover{background:var(--btn-hi);color:#fff;transform:translateY(-1px)}
+  .btn.sm{padding:9px 14px;font-size:14px;box-shadow:none}
+
+  article{position:relative;z-index:1;max-width:720px;margin:0 auto;padding:56px 0 10px}
+  h1{font-weight:400;font-size:clamp(40px,6vw,68px);line-height:1;letter-spacing:-.035em;margin:0 0 22px;color:var(--title);text-wrap:balance}
+  .dek{font-size:clamp(19px,2vw,22px);line-height:1.45;color:var(--ink-2);margin:0 0 22px;text-wrap:pretty}
+  .byline{font-size:14px;color:var(--ink-2);margin:0 0 44px;padding-bottom:26px;border-bottom:1px solid var(--rule)}
+  .prose p,.prose li{text-wrap:pretty}
+  .prose h2{font-weight:400;font-size:clamp(28px,3vw,36px);line-height:1.1;letter-spacing:-.03em;margin:56px 0 14px;color:var(--title);text-wrap:balance}
+  .prose h3{font-weight:600;font-size:21px;letter-spacing:-.01em;margin:34px 0 10px}
+  .prose p,.prose ul,.prose ol{margin:0 0 20px}
+  .prose li{margin:0 0 8px}
+  .prose strong{font-weight:600}
+  .prose em{font-style:italic;color:var(--ink-2)}
+  .prose blockquote{margin:28px 0;padding:4px 0 4px 20px;border-left:3px solid #F97352;color:var(--ink-2)}
+  .prose code{font-family:inherit;background:var(--grey);padding:1px 6px;border-radius:4px}
+  .prose pre{white-space:pre-wrap;background:var(--grey);border:1px solid var(--rule);border-radius:6px;padding:18px 20px;font-family:var(--sans);font-size:16px;line-height:1.6;margin:0 0 22px}
+  .prose pre code{background:none;padding:0}
+  .prose table{border-collapse:collapse;width:100%;margin:0 0 24px;font-size:16px;display:block;overflow-x:auto}
+  .prose th,.prose td{text-align:left;padding:12px 16px 12px 0;border-bottom:1px solid var(--rule);vertical-align:top}
+  .prose th{font-weight:600}
+  .prose hr{border:0;border-top:1px solid var(--rule);margin:44px 0}
+  .prose mark{background:var(--tint);color:var(--warm);padding:2px 6px;border-radius:4px;font-style:normal}
+
+  .cta{position:relative;z-index:1;max-width:720px;margin:48px auto 100px;padding:40px 36px;border-radius:8px;text-align:center;background:linear-gradient(160deg,#FFF6EC,#FFEFF1);border:1px solid #F7E3D9}
+  .cta-lead{font-size:clamp(26px,3vw,34px);line-height:1.1;letter-spacing:-.03em;color:var(--title);margin:0 0 14px;text-wrap:balance}
+  .cta-lead .g{font-weight:800;background:var(--grad-text);-webkit-background-clip:text;background-clip:text;color:transparent}
+  .cta p{color:var(--ink-2);margin:0 auto 24px;max-width:46ch;text-wrap:balance}
+  .cta .small{font-size:15px;margin:16px auto 0}
+  .cta .cta-lead{color:var(--title);margin:0 auto 14px}
+
+  .list{list-style:none;padding:0;margin:0}
+  .list li{padding:26px 0;border-top:1px solid var(--rule)}
+  .list a{font-size:clamp(22px,2.4vw,28px);letter-spacing:-.025em;text-decoration:none;color:var(--title);line-height:1.2}
+  .list a:hover{text-decoration:underline;text-decoration-color:#F97352}
+  .list p{margin:6px 0 0;color:var(--ink-2)}
+
+  footer{background:#F6F2EA;border-top:1px solid var(--rule);padding:44px 0 30px;color:var(--ink-2);font-size:15px}
+  .foot{display:grid;grid-template-columns:1.2fr 1fr 1fr;gap:32px}
+  .foot p{margin:10px 0 0}
+  .foot nav,.foot .contact{display:flex;flex-direction:column;gap:6px}
+  footer a{color:var(--ink-2);text-decoration:none}
+  footer a:hover{color:var(--ink)}
+  .small-mark{font-size:20px;color:var(--ink)}
+  .small-mark .tile{width:26px;height:26px}
+  .copy{margin-top:28px;font-size:14px}
+  @media (max-width:760px){
+    body{font-size:17px}
+    article{padding-top:32px}
+    .navlink{display:none}
+    .cta{padding:32px 22px;margin-left:16px;margin-right:16px}
+    .foot{grid-template-columns:1fr}
+    .orb{width:520px;height:420px;right:-240px;top:-200px}
+  }
+</style>

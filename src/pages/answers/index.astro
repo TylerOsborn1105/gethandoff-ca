@@ -1,0 +1,31 @@
+---
+import Page from '../../layouts/Page.astro';
+import { answers } from '../../lib/content.js';
+const list = answers();
+const site = Astro.site.href.replace(/\/$/, '');
+const schema = [{
+  '@context': 'https://schema.org', '@type': 'CollectionPage', name: 'Plain answers',
+  url: `${site}/answers/`, isPartOf: { '@type': 'WebSite', name: 'Handoff', url: `${site}/` },
+}];
+---
+<Page
+  title="Plain answers about AI for small business owners | Handoff"
+  description="Straight answers to the questions small business owners ask about AI: where to start, what it costs, what’s safe, and what’s worth your time."
+  h1="Plain answers"
+  dek="Straight answers to the questions small business owners ask about AI. No jargon, and no pitch until the end."
+  showByline={false}
+  schema={schema}
+>
+  {list.length ? (
+    <ul class="list">
+      {list.map((a) => (
+        <li>
+          <a href={`/answers/${a.slug}/`}>{a.data.h1}</a>
+          <p>{a.data.dek}</p>
+        </li>
+      ))}
+    </ul>
+  ) : (
+    <p>New answers are on the way. In the meantime, the free hour is the fastest way to get yours.</p>
+  )}
+</Page>

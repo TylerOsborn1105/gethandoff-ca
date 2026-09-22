@@ -1,0 +1,33 @@
+---
+import Page from '../../layouts/Page.astro';
+import { areas } from '../../lib/content.js';
+
+export function getStaticPaths() {
+  return areas().map((a) => ({ params: { slug: a.slug }, props: { entry: a } }));
+}
+const { entry } = Astro.props;
+const { data, Content } = entry;
+const site = Astro.site.href.replace(/\/$/, '');
+const url = `${site}/ai-help/${entry.slug}/`;
+const schema = [
+  {
+    '@context': 'https://schema.org', '@type': 'Service',
+    name: `AI help for small businesses in ${data.place}`, url,
+    serviceType: 'AI training, setup and custom tools for small businesses',
+    provider: { '@id': `${site}/#business` },
+    areaServed: data.served.map((n) => ({ '@type': 'City', name: n })),
+    offers: { '@type': 'Offer', name: 'Free hour and written report', price: '0', priceCurrency: 'CAD' },
+  },
+  {
+    '@context': 'https://schema.org', '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Handoff', item: `${site}/` },
+      { '@type': 'ListItem', position: 2, name: data.place, item: url },
+    ],
+  },
+];
+---
+<Page title={data.title} description={data.description} h1={data.h1} dek={data.dek}
+      updated={data.updated} draft={data.draft} schema={schema}>
+  <Content />
+</Page>
