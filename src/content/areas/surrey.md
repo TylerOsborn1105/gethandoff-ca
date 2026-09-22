@@ -5,8 +5,8 @@ description: "Plain-English help using AI in your Surrey or White Rock business:
 dek: "From Cloverdale to South Surrey and White Rock, a free hour at your place and a straight answer about where AI would give you time back."
 place: "Surrey and White Rock"
 served: ["Surrey", "South Surrey", "White Rock", "Cloverdale", "Newton", "Fleetwood", "Guildford"]
-updated: "2026-09-18"
-draft: true
+updated: "2026-09-22"
+draft: false
 order: 3
 ---
 
@@ -25,7 +25,7 @@ Fast growth brings a particular kind of admin pain:
 - **Information that lives in one person's head**, which becomes a real problem as the team grows.
 - **Quotes and proposals that wait too long** because the owner is out doing the work. See [How to write quotes faster with AI](/answers/write-quotes-faster-with-ai/).
 
-<mark>TYLER: Add a Surrey or White Rock specific example once you have one, or a line on why you work there.</mark>
+I work in Surrey and White Rock because they're a short drive from home, and a lot of the businesses there are growing faster than the paperwork. From Newton and Cloverdale to South Surrey and the White Rock hill, the stuck job is usually the same: replies, bookings, and quotes waiting on the person who's already out doing the work.
 
 ## Prices
 

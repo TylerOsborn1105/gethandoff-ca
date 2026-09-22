@@ -5,14 +5,14 @@ description: "Local, plain-English help using AI in your Delta business: a free 
 dek: "I live in Tsawwassen, so this is home turf. A free hour at your shop, office or back room, and a straight answer about whether AI is worth it for you."
 place: "Delta"
 served: ["Delta", "Tsawwassen", "Ladner", "North Delta"]
-updated: "2026-09-18"
-draft: true
+updated: "2026-09-22"
+draft: false
 order: 1
 ---
 
 Delta is where Handoff started, because it's where I live. Tsawwassen is home, and Ladner, Tilbury and North Delta are all a short drive. If you run a business anywhere in Delta, I'm probably fifteen minutes away.
 
-<mark>TYLER: One or two lines on your own Delta connection. Where you grew up or how long you've been here, the family business, a place locals will recognize.</mark>
+I grew up in Tsawwassen and I still live here. I worked with my family's landscape construction business in Delta, and I played and coached football at Dennison Park.
 
 ## What the free hour looks like here
 
@@ -32,8 +32,6 @@ Each of these is usually fixable with tools you already have or that cost very l
 ## Prices
 
 Same as everywhere, and published: the first hour is free, a half-day of teaching for your team is $2,000, setup starts at $1,500, and custom tools start at $5,000. All in Canadian dollars, plus tax. [What does AI help cost a small business in BC?](/answers/what-does-ai-help-cost-small-business-bc/) explains what goes into those numbers.
-
-<mark>TYLER: Add a real Delta client story once you have one. Business type, the problem, hours back. Anonymous is fine ("a family-run shop in Ladner").</mark>
 
 ## Nearby
 

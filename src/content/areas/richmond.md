@@ -5,8 +5,8 @@ description: "Plain-English help using AI in your Richmond business: a free, on-
 dek: "A free hour at your place, from Steveston to City Centre. You’ll leave knowing exactly where AI would save you time, and where it wouldn’t."
 place: "Richmond"
 served: ["Richmond"]
-updated: "2026-09-18"
-draft: true
+updated: "2026-09-22"
+draft: false
 order: 2
 ---
 
@@ -23,7 +23,7 @@ I come to your shop or office, and you walk me through a normal week, especially
 - **Busy front counters and phones**, answering the same questions about hours, stock, bookings and pickups.
 - **Owners who are also the office manager**, catching up on paperwork after closing.
 
-<mark>TYLER: Add something specific to Richmond from your own experience, such as a business you've worked with or a pattern you've noticed there.</mark>
+The pattern is the same from Steveston village to offices along No. 3 Road and warehouses near Bridgeport and the airport. The work itself is fine. The hours go to messages, orders, and the same details typed in more than one place.
 
 ## A note on customer information
 

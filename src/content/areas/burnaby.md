@@ -5,8 +5,8 @@ description: "Plain-English AI help for Burnaby small businesses, from Metrotown
 dek: "From Metrotown offices to units in the Big Bend, a free hour at your place and an honest look at where AI would give you time back."
 place: "Burnaby"
 served: ["Burnaby"]
-updated: "2026-09-18"
-draft: true
+updated: "2026-09-22"
+draft: false
 order: 5
 ---
 
@@ -23,7 +23,7 @@ I come to you, office, storefront or warehouse unit. You show me how the week re
 - **Reports someone builds by hand every week or month**, from the same sources, in the same format.
 - **Teams where one person is the bottleneck**, because they're the only one who knows how a process works.
 
-<mark>TYLER: Add a Burnaby-specific example once you have one.</mark>
+A Burnaby afternoon can run from an office near Metrotown or Brentwood, to a shop on Hastings or Kingsway, to a unit in the Big Bend. Different buildings, same stuck work: orders retyped by hand, a report rebuilt every week, or a process only one person knows.
 
 ## Prices
 

@@ -5,8 +5,8 @@ description: "Plain-English AI help for Vancouver small businesses: a free on-si
 dek: "Vancouver has no shortage of people selling AI. This is the opposite: a free hour at your place, plain answers, and published prices."
 place: "Vancouver"
 served: ["Vancouver"]
-updated: "2026-09-18"
-draft: true
+updated: "2026-09-22"
+draft: false
 order: 4
 ---
 
@@ -29,7 +29,7 @@ Vancouver's small businesses lean toward services, studios, clinics, restaurants
 
 That third one is often the most valuable fix. A half-day where the whole team learns together, on real work, with clear rules about what goes in, turns scattered experiments into a shared habit. [Is ChatGPT safe for my customers' information?](/answers/is-chatgpt-safe-for-customer-information/) covers the rules part.
 
-<mark>TYLER: Add a Vancouver-specific example once you have one, or a line on the kind of Vancouver business you most enjoy helping.</mark>
+The Vancouver businesses I most enjoy helping are the small ones where the owner is still in the room: studios and shops around Main and Commercial Drive, clinics and offices from downtown out to Kits and Kerrisdale. They don't need another pitch. They need the messages, bookings, and drafts to stop eating the day.
 
 ## Prices
 
