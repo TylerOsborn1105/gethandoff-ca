@@ -140,13 +140,18 @@ h1,h2,h3{text-wrap:balance}p{text-wrap:pretty}
 .own{display:flex;align-items:center;gap:12px;margin:18px 0 0!important;padding:14px 16px;border-radius:8px;color:var(--title)!important;font-weight:600;font-size:17px;letter-spacing:-.01em;
  border:1.5px solid transparent;background:linear-gradient(100deg,#FFF8F0,#FFF1F3) padding-box,var(--grad) border-box}
 .own svg{width:22px;height:22px;flex:none;fill:none;stroke:#F97352;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
-.pl2{list-style:none;padding:0;margin:4px 0 16px;flex:1}
+.pl2{list-style:none;padding:0;margin:4px 0 16px;flex:1;margin-right:-18px}
 .pl2 li{padding:13px 0;border-bottom:1px solid var(--line)}
 .pl2 .pt{display:flex;justify-content:space-between;align-items:baseline;gap:10px}
-.pl2 .nm{font-size:15px;font-weight:600;color:var(--title)}
+.pl2 .nm{flex:1;min-width:0;font-size:15px;font-weight:600;color:var(--title)}
+.pl2 .pr{display:grid;grid-template-columns:3.7ch max-content 7.5ch;align-items:baseline;column-gap:3px;flex:none;margin-left:auto;font-size:14px}
+.pl2 .pr .pre{grid-column:1;justify-self:end}
+.pl2 .pr b{grid-column:2;justify-self:end}
+.pl2 .pr small:not(.pre){grid-column:3;justify-self:start}
 .pl2 b{font-size:30px;font-weight:400;letter-spacing:-.035em;white-space:nowrap;color:var(--title)}
-.pl2 b small{font-size:14px;color:var(--ink2);letter-spacing:0;margin-left:3px}
-.pl2 b small.pre{margin:0 4px 0 0}
+.pl2 .pr small{font-size:14px;font-weight:400;color:var(--ink2);letter-spacing:0;white-space:nowrap}
+@media (max-width:900px){.pl2{margin-right:0}}
+@media (max-width:440px){.pl2 .pt{flex-wrap:wrap;row-gap:2px}.pl2 .nm{flex:1 1 100%}.pl2 .pr{margin-left:auto}}
 .pl2 p{margin:4px 0 0;font-size:15px;line-height:1.4}
 .pl2 .free b{background:var(--grad-text);-webkit-background-clip:text;background-clip:text;color:transparent;font-weight:800}
 .pl2 .px{font-size:14px;color:var(--warm);margin-top:6px}
@@ -175,10 +180,10 @@ h1,h2,h3{text-wrap:balance}p{text-wrap:pretty}
 <div class="bento">
 <div class="tile2 span2 rv"><h2>Your free hour</h2><p><b>It’s free, and I come to you.</b> You’ll leave with one thing you can use the next day. Then I send a short report: what I’d fix, what I wouldn’t bother with, and what each would cost. It’s yours either way.</p></div>
 <div class="tile2 tall rv"><h2>The prices</h2><ul class="pl2">
-<li class="free"><div class="pt"><span class="nm">Your free hour</span><b>Free</b></div><p>An hour at your place, plus a written report.</p></li>
-<li><div class="pt"><span class="nm">Teaching</span><b>$2,000</b></div><p>A half-day with you and your team, on your real work.</p><p class="px">Or $900 a month to keep it going.</p></li>
-<li><div class="pt"><span class="nm">Setup</span><b>$1,500<small>to $3,500</small></b></div><p>The tools you already pay for, set up to fit how you work.</p></li>
-<li><div class="pt"><span class="nm">Custom builds</span><b><small class="pre">from</small>$5,000</b></div><p>Built for your business. You own it outright.</p><p class="px">Optional care plan from $600 a month.</p></li>
+<li class="free"><div class="pt"><span class="nm">Your free hour</span><span class="pr"><b>Free</b></span></div><p>An hour at your place, plus a written report.</p></li>
+<li><div class="pt"><span class="nm">Teaching</span><span class="pr"><b>$2,000</b></span></div><p>A half-day with you and your team, on your real work.</p><p class="px">Or $900 a month to keep it going.</p></li>
+<li><div class="pt"><span class="nm">Setup</span><span class="pr"><b>$1,500</b><small>to $3,500</small></span></div><p>The tools you already pay for, set up to fit how you work.</p></li>
+<li><div class="pt"><span class="nm">Custom builds</span><span class="pr"><small class="pre">from</small><b>$5,000</b></span></div><p>Built for your business. You own it outright.</p><p class="px">Optional care plan from $600 a month.</p></li>
 </ul>
 <p class="fine">Your report gives you the exact price for what you need. All prices in Canadian dollars, plus tax.</p></div>
 <div class="tile2 span2 rv"><h2>The work</h2><p class="lead2">I teach first. I only build <span class="g">when it’s worth it.</span></p>
