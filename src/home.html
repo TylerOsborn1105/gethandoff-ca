@@ -72,7 +72,15 @@ section.b{padding:90px 0;background:var(--grey)}
 .fine{font-size:13px!important}
 .dark{background:var(--spruce);color:#EAF2EC;border-color:transparent;display:flex;flex-direction:column;justify-content:space-between;gap:20px}
 .dark h2{color:#fff}.dark p{color:#C8DACF}.dark .dot{width:12px;height:12px;border-radius:50%;background:var(--gold);box-shadow:0 0 0 6px rgba(240,178,78,.25)}
-.me{padding:100px 28px}
+.me{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,.9fr);gap:64px;align-items:center;padding:100px 28px}
+.why{background:#fff;border:1px solid var(--line);border-radius:8px;padding:30px;box-shadow:0 30px 60px -30px rgba(50,50,93,.25)}
+.who{display:flex;align-items:center;gap:16px;margin-bottom:20px}
+.av{width:64px;height:64px;border-radius:50%;background:var(--grad);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:800;font-size:22px;letter-spacing:-.02em;flex:none}
+.who b{display:block;font-size:19px;color:var(--title)}.who span{font-size:15px;color:var(--ink2)}
+.facts{list-style:none;margin:0;padding:0}
+.facts li{display:grid;grid-template-columns:28px 1fr;gap:10px;padding:13px 0;border-top:1px solid var(--line);font-size:16px;color:#222}
+.facts svg{width:20px;height:20px;fill:none;stroke:#E5532F;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;margin-top:2px}
+.me .plain{margin:16px 0 0;max-width:none;font-size:15px;padding:12px 14px;border-radius:6px;border:1.5px solid transparent;background:linear-gradient(100deg,#FFF8F0,#FFF1F3) padding-box,var(--grad) border-box;color:var(--title);font-weight:600}
 .me h2{font-size:clamp(44px,6vw,88px);font-weight:400;letter-spacing:-.035em;line-height:.92;margin:0 0 24px;color:var(--title)}
 .me p{color:var(--ink2);max-width:54ch;margin:0 0 14px}.sig{color:var(--ink)!important;font-weight:600;margin-top:18px!important}
 .faq{background:#F6F2EA;border-top:1px solid var(--line);padding:100px 0 110px}
@@ -90,7 +98,7 @@ footer .bar{padding-top:0;padding-bottom:0;flex-wrap:wrap;gap:12px}footer a{text
 @media (max-width:900px){
  .grid{grid-template-columns:1fr;gap:40px;padding-top:28px}.top{padding-top:30px}.report{transform:none}
  .bento{grid-template-columns:1fr}.span2{grid-column:auto}.tall{grid-row:auto;order:3}.tile2{padding:28px 24px}
- .faqg{grid-template-columns:1fr;gap:28px}
+ .me,.faqg{grid-template-columns:1fr;gap:28px}
  .nav .where{display:none}.orb{width:520px;height:520px;right:-220px;top:-140px}
  footer a{margin:0 18px 0 0}
 }
@@ -199,7 +207,10 @@ h1,h2,h3{text-wrap:balance}p{text-wrap:pretty}
 </div></div></section>
 <div class="wrap me rv"><div>
 <h2>A sales guy who got tired of admin.</h2><p>I ran my family’s business, then moved into sales. Both jobs had the same problem: too much of the week went to work that doesn’t make any money. Nothing off the shelf fit how I worked, so I built my own.</p><p>Now I sit down with owners around the Lower Mainland and show them how to do the same in their business.</p><p class="sig">Tyler Calderwood</p>
-<a class="btn" href="https://calendly.com/tyler-echelontrades/handoff-free-hour" target="_blank" rel="noopener">Book your free hour</a></div></div>
+<a class="btn" href="https://calendly.com/tyler-echelontrades/handoff-free-hour" target="_blank" rel="noopener">Book your free hour</a></div>
+<aside class="why"><div class="who"><div class="av" aria-hidden="true">TC</div><div><b>Tyler Calderwood</b><span>Handoff, Tsawwassen</span></div></div>
+<ul class="facts"><li><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M8 7V5h8v2"/></svg><span>Ran a family business, and did the paperwork myself</span></li><li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v11H9l-5 4z"/></svg><span>Moved into sales, so I know what a late quote costs</span></li><li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 7a4 4 0 0 0 5 5L10 21l-3-3 9-9"/><path d="M14 7l3-3"/></svg><span>Not a developer. I built my own tools to get my week back</span></li><li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-6.1-7-11.5A7 7 0 0 1 19 9.5C19 14.9 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5"/></svg><span>Local. I come to you, anywhere in the Lower Mainland</span></li></ul>
+<p class="plain">Everything explained in plain words. If you don’t follow it, that’s on me.</p></aside></div>
 <section class="faq"><div class="wrap faqg rv"><h2>Fair questions<small>The things owners ask, usually a little quietly.</small></h2><dl><div class="qa"><dt>I tried ChatGPT and it wasn’t useful.</dt><dd>That’s the usual experience. A blank chat box knows nothing about your business. Once it’s set up around how you actually work, it’s a different tool. I’ll show you in the hour.</dd></div><div class="qa"><dt>Will this replace my staff<span class=qm>?</span></dt><dd>No. They stop doing the retyping and get back to the work you hired them for.</dd></div><div class="qa"><dt>What happens to my customers’ information<span class=qm>?</span></dt><dd>Everything runs on your accounts, not mine. I’ll show you what goes in, what never does, and who can see it.</dd></div><div class="qa"><dt>Is my business too small<span class=qm>?</span></dt><dd>Small is an advantage. One person decides, and the first fix is usually something you do every week.</dd></div><div class="qa"><dt>What don’t you do<span class=qm>?</span></dt><dd>I don’t sell software, lock you in, or sell you something you don’t need. If you don’t need me, I’ll tell you.</dd></div></dl></div></section>
 <footer><div class="wrap bar"><span>© 2026 Handoff, Tsawwassen BC</span><span><a href="/answers/">Plain answers</a><a href="/privacy/">Privacy</a><a href="tel:+16042038575">604 203 8575</a><a href="mailto:tyler@gethandoff.ca">tyler@gethandoff.ca</a></span></div></footer>
 <script>
