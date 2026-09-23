@@ -9,6 +9,8 @@ draft: false
 order: 8
 ---
 
+**Quotes drafted from your notes**
+
 Whether you call it a quote, an estimate or a proposal, the pattern is the same in most businesses: you talk to the customer, take notes, and then the quote waits until you find a quiet hour. Often that's late at night. Sometimes it's days later, and by then the customer has gone with whoever replied first.
 
 Speed wins work. Here's how to get a quote out the same day without cutting corners.

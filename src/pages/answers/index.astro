@@ -16,6 +16,7 @@ const schema = [{
   showByline={false}
   schema={schema}
 >
+  <p class="support">Everything taught in plain English, so you can actually use it at work.</p>
   {list.length ? (
     <ul class="list">
       {list.map((a) => (
@@ -29,3 +30,13 @@ const schema = [{
     <p>New answers are on the way. In the meantime, the free hour is the fastest way to get yours.</p>
   )}
 </Page>
+
+<style>
+  .support{
+    margin:-4px 0 32px;
+    color:var(--ink-2);
+    font-size:clamp(17px,1.7vw,19px);
+    line-height:1.45;
+    text-wrap:pretty;
+  }
+</style>

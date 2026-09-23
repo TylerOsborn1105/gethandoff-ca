@@ -19,6 +19,8 @@ Here are five that AI handles well, how to try each one yourself, and where each
 
 **What changes:** Each reply arrives drafted, in your own words, ready for you to check and send.
 
+Customer replies written and ready to send.
+
 **Try it yourself:** Write down your ten most common questions and your best answer to each. Give that list to ChatGPT, Copilot or Gemini with an instruction like:
 
 ```
@@ -35,6 +37,8 @@ If the question isn't covered here, say so instead of guessing.
 
 **What changes:** Receipts get read automatically and land in your books, sorted. You check them instead of typing them.
 
+Receipts that file themselves.
+
 **Try it yourself:** Before buying anything new, check what you already pay for. QuickBooks, Xero and most bookkeeping software have receipt capture built in: you snap a photo or forward an email, and it reads the details. Tools like Dext and Hubdoc do the same thing in more depth. Many owners are paying for this and have never switched it on.
 
 **Watch out for:** Faded receipts, handwriting and foreign currency still trip it up. Check the totals, and keep your accountant in the loop about how things are being categorized.
@@ -44,6 +48,8 @@ If the question isn't covered here, say so instead of guessing.
 **What it looks like now:** Nobody follows up because nobody remembers who was owed a call. Quotes go out and are never chased. Good customers go quiet and nobody notices.
 
 **What changes:** Each morning there's a short list: quotes sent more than a week ago with no reply, customers you haven't heard from in a while, promised callbacks. The follow-ups actually happen.
+
+A list each morning of who to call back.
 
 **Try it yourself:** Start simple. If you keep a spreadsheet of quotes or customers, add a "last contact" date. Once a week, paste it in (with names removed or shortened) and ask:
 
