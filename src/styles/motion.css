@@ -67,39 +67,6 @@
     align-self: flex-start;
   }
 
-  /* Zero-width arrow so it sits after the text, including on wrapped lines. */
-  a.where::after,
-  a.navlink::after,
-  .list a::after,
-  .prose a:not(.btn):not([href^="tel:"]):not([href^="mailto:"])::after,
-  footer a:not(.mark):not([href^="tel:"]):not([href^="mailto:"])::after {
-    content: "→";
-    display: inline-block;
-    width: 0;
-    overflow: visible;
-    white-space: nowrap;
-    vertical-align: baseline;
-    opacity: 0;
-    translate: -4px 0;
-    transition:
-      opacity 200ms ease,
-      translate 200ms ease;
-    pointer-events: none;
-  }
-  a.where:hover::after,
-  a.where:focus-visible::after,
-  a.navlink:hover::after,
-  a.navlink:focus-visible::after,
-  .list a:hover::after,
-  .list a:focus-visible::after,
-  .prose a:not(.btn):not([href^="tel:"]):not([href^="mailto:"]):hover::after,
-  .prose a:not(.btn):not([href^="tel:"]):not([href^="mailto:"]):focus-visible::after,
-  footer a:not(.mark):not([href^="tel:"]):not([href^="mailto:"]):hover::after,
-  footer a:not(.mark):not([href^="tel:"]):not([href^="mailto:"]):focus-visible::after {
-    opacity: 1;
-    translate: 0 0;
-  }
-
   a.btn {
     translate: 0 0;
     scale: 1;

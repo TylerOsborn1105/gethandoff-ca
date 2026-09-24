@@ -1,10 +1,27 @@
 /* Native custom cursor. CSS image only — no script, no easing.
-   Desktop mice only. Touch and coarse pointers keep the system cursor. */
+   Desktop mice only. Touch and coarse pointers keep the system cursor.
+   2x and 3x PNGs keep the dot sharp when Windows scales the display.
+   The first url() rule stays so browsers that reject image-set in
+   cursor still get the 1x dot. Hotspots stay in CSS pixels. */
 
 @media (hover: hover) and (pointer: fine) {
   html,
   body {
     cursor: url("/cursor/dot.svg") 12 12, url("/cursor/dot.png") 12 12, auto;
+    cursor: -webkit-image-set(
+        url("/cursor/dot.png") 1x,
+        url("/cursor/dot@2x.png") 2x,
+        url("/cursor/dot@3x.png") 3x
+      ) 12 12,
+      url("/cursor/dot.png") 12 12,
+      auto;
+    cursor: image-set(
+        url("/cursor/dot.png") 1x,
+        url("/cursor/dot@2x.png") 2x,
+        url("/cursor/dot@3x.png") 3x
+      ) 12 12,
+      url("/cursor/dot.png") 12 12,
+      auto;
   }
 
   a,
@@ -16,6 +33,20 @@
   .btn,
   .where {
     cursor: url("/cursor/dot-hover.svg") 16 16, url("/cursor/dot-hover.png") 16 16, pointer;
+    cursor: -webkit-image-set(
+        url("/cursor/dot-hover.png") 1x,
+        url("/cursor/dot-hover@2x.png") 2x,
+        url("/cursor/dot-hover@3x.png") 3x
+      ) 16 16,
+      url("/cursor/dot-hover.png") 16 16,
+      pointer;
+    cursor: image-set(
+        url("/cursor/dot-hover.png") 1x,
+        url("/cursor/dot-hover@2x.png") 2x,
+        url("/cursor/dot-hover@3x.png") 3x
+      ) 16 16,
+      url("/cursor/dot-hover.png") 16 16,
+      pointer;
   }
 
   a:active,
@@ -27,6 +58,20 @@
   .btn:active,
   .where:active {
     cursor: url("/cursor/dot-down.svg") 16 16, url("/cursor/dot-down.png") 16 16, pointer;
+    cursor: -webkit-image-set(
+        url("/cursor/dot-down.png") 1x,
+        url("/cursor/dot-down@2x.png") 2x,
+        url("/cursor/dot-down@3x.png") 3x
+      ) 16 16,
+      url("/cursor/dot-down.png") 16 16,
+      pointer;
+    cursor: image-set(
+        url("/cursor/dot-down.png") 1x,
+        url("/cursor/dot-down@2x.png") 2x,
+        url("/cursor/dot-down@3x.png") 3x
+      ) 16 16,
+      url("/cursor/dot-down.png") 16 16,
+      pointer;
   }
 
   input,
