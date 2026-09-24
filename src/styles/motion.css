@@ -1,0 +1,102 @@
+/* Subtle trust-first motion. Reveal retunes the homepage .rv / .in
+   pattern. Link hover and button press apply on every page.
+   Hidden states exist only after JS adds .js, and only when motion is allowed. */
+
+@media (prefers-reduced-motion: no-preference) {
+  .js .rv {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  .js .rv.in {
+    opacity: 1;
+    transform: none;
+    transition:
+      opacity 500ms ease-out,
+      transform 500ms ease-out;
+    transition-delay: calc(var(--i, 0) * 80ms);
+  }
+  /* A card that contains revealed items fades in place.
+     Those items rise 16px on their own so the shifts do not stack,
+     and they stay opaque so the card fade is not multiplied away. */
+  .js .rv:has(.rv),
+  .js .rv.in:has(.rv) {
+    transform: none;
+  }
+  .js .rv .rv {
+    opacity: 1;
+  }
+  .js .rv.in .rv.in {
+    opacity: 1;
+    transition: transform 500ms ease-out;
+    transition-delay: calc(var(--i, 0) * 80ms);
+  }
+
+  /* Underline grows from the left on each line, without moving layout. */
+  a.where,
+  a.navlink,
+  .list a,
+  footer a:not(.mark):not([href^="tel:"]):not([href^="mailto:"]) {
+    background-image: linear-gradient(color-mix(in srgb, currentColor 55%, transparent), color-mix(in srgb, currentColor 55%, transparent));
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: 0 1px;
+    transition: background-size 200ms ease;
+  }
+  .nav .where {
+    transition: color .15s ease, font-weight .15s ease, background-size 200ms ease;
+  }
+  .prose .list a {
+    background-image: linear-gradient(#F97352, #F97352);
+  }
+  .prose .list a:hover,
+  .prose .list a:focus-visible {
+    text-decoration: none;
+  }
+  a.where:hover,
+  a.where:focus-visible,
+  a.navlink:hover,
+  a.navlink:focus-visible,
+  .list a:hover,
+  .list a:focus-visible,
+  footer a:not(.mark):not([href^="tel:"]):not([href^="mailto:"]):hover,
+  footer a:not(.mark):not([href^="tel:"]):not([href^="mailto:"]):focus-visible {
+    background-size: 100% 1px;
+  }
+  /* Column links otherwise stretch, which would draw the line across the column. */
+  footer a:not(.mark):not([href^="tel:"]):not([href^="mailto:"]) {
+    align-self: flex-start;
+  }
+
+  a.btn {
+    translate: 0 0;
+    scale: 1;
+    transition:
+      translate 150ms cubic-bezier(0.34, 1.56, 0.64, 1),
+      scale 150ms cubic-bezier(0.34, 1.56, 0.64, 1),
+      background 0.2s,
+      box-shadow 150ms ease;
+  }
+  a.btn:hover {
+    translate: 0 -1px;
+    box-shadow: 0 12px 28px -12px rgba(0, 0, 0, 0.4);
+  }
+  a.btn.sm:hover {
+    box-shadow: 0 4px 12px -6px rgba(0, 0, 0, 0.25);
+  }
+  a.btn:active,
+  a.btn.sm:active {
+    scale: 0.96;
+    translate: 0 0;
+    box-shadow: 0 6px 16px -10px rgba(0, 0, 0, 0.3);
+    transition-duration: 80ms;
+    transition-timing-function: ease-out;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .js .rv {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
