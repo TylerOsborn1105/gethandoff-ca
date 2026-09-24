@@ -22,7 +22,7 @@ header{position:relative;z-index:3}
 .nav .where{text-decoration:none;font-weight:400;color:#2C2C2E;transition:color .15s ease,font-weight .15s ease}
 .nav .where:hover{color:var(--ink);font-weight:500}
 .btn{display:inline-flex;align-items:center;gap:8px;background:var(--spruce);color:#fff;text-decoration:none;font-weight:500;font-size:16px;padding:15px 24px;border-radius:6px;font-weight:600;transition:transform .2s,background .2s;box-shadow:0 10px 24px -12px rgba(0,0,0,.35)}
-.btn:hover{transform:translateY(-1px);background:var(--spruce2)}
+.btn:hover{background:var(--spruce2)}
 .btn.sm{padding:9px 14px;font-size:14px;border-radius:6px;box-shadow:none}
 .btn span{transition:transform .2s}.btn:hover span{transform:translateX(3px)}
 .btn:focus-visible,.tel:focus-visible,.mark:focus-visible,.where:focus-visible,.x:focus-visible{outline:2px solid var(--spruce);outline-offset:3px}
@@ -121,10 +121,7 @@ footer .bar{padding-top:0;padding-bottom:0;flex-wrap:wrap;gap:12px}footer a{text
 .row .sw{min-width:0}
 .row em{font-variant-numeric:tabular-nums}
 h1,h2,h3{text-wrap:balance}p{text-wrap:pretty}
-.js .rv{opacity:0;transform:translateY(18px);transition:opacity .8s cubic-bezier(.2,.7,.2,1),transform .8s cubic-bezier(.2,.7,.2,1)}
-.js .rv.in{opacity:1;transform:none}
 @media (prefers-reduced-motion:no-preference){.fl{animation:float 7s ease-in-out 2.8s infinite alternate}@keyframes float{to{transform:translateY(-6px)}}}
-@media (prefers-reduced-motion:reduce){.js .rv{opacity:1;transform:none;transition:none}}
 @media (max-width:600px){.row{grid-template-columns:1fr auto;row-gap:8px}.row .sw{grid-column:1/-1}.row em{justify-self:start}}
 @media (max-width:900px){.trust{margin-top:44px;gap:12px 24px;flex-direction:column}}
 @font-face{font-family:"Grotesk Fallback";src:local("Arial");size-adjust:98%;ascent-override:96%;descent-override:26%;line-gap-override:0%}
@@ -229,11 +226,21 @@ document.documentElement.classList.add('js');
     r.setAttribute('data-view',b.dataset.v);
     r.querySelectorAll('.seg button').forEach(function(x){x.setAttribute('aria-pressed',x===b?'true':'false')});
   })})}
+  ['.bento > .tile2','.pl2 > li','.steps > li','.facts > li','.trust > div','.qa'].forEach(function(sel){
+    document.querySelectorAll(sel).forEach(function(el,i){
+      el.classList.add('rv');
+      el.style.setProperty('--i',i);
+    });
+  });
   var els=document.querySelectorAll('.rv');
-  if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in')});return}
-  var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}})},{rootMargin:'0px 0px -8% 0px'});
+  function show(e){e.classList.add('in')}
+  var reduce=window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if(reduce||!('IntersectionObserver' in window)){els.forEach(show);return}
+  var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){show(e.target);io.unobserve(e.target)}})},{rootMargin:'0px 0px -4% 0px',threshold:0.05});
   els.forEach(function(e){io.observe(e)});
-  function sweep(){els.forEach(function(e){if(!e.classList.contains('in')&&e.getBoundingClientRect().top<innerHeight){e.classList.add('in')}})}
+  function sweep(){els.forEach(function(e){if(e.classList.contains('in'))return;if(e.getBoundingClientRect().top<innerHeight*.98)show(e)})}
   addEventListener('scroll',sweep,{passive:true});
+  setTimeout(sweep,150);
+  setTimeout(sweep,450);
 })();
 </script></body></html>

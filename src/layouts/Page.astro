@@ -3,6 +3,7 @@ import Analytics from '@vercel/analytics/astro';
 import SpeedInsights from '@vercel/speed-insights/astro';
 import mark from '../lib/mark.svg?raw';
 import { areas } from '../lib/content.js';
+import motionCss from '../styles/motion.css?raw';
 
 const {
   title,            // <title>
@@ -45,6 +46,7 @@ const highlightAiHelp = h1Text === aiHelpLead || h1Text.startsWith(`${aiHelpLead
   <meta property="og:image" content={new URL('/og.png', Astro.site).href}>
   <meta property="og:locale" content="en_CA">
   <meta name="theme-color" content="#FFFFFF">
+  <style is:inline set:html={motionCss}></style>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&display=swap" rel="stylesheet">
@@ -125,7 +127,7 @@ const highlightAiHelp = h1Text === aiHelpLead || h1Text.startsWith(`${aiHelpLead
   .navlink{font-size:15px;color:var(--ink-2);text-decoration:none}
   .navlink:hover{color:var(--ink)}
   .btn{display:inline-block;background:var(--btn);color:#fff;text-decoration:none;font-weight:600;font-size:16px;padding:15px 24px;border-radius:6px;transition:transform .2s,background .2s;box-shadow:0 10px 24px -12px rgba(0,0,0,.35)}
-  .btn:hover{background:var(--btn-hi);color:#fff;transform:translateY(-1px)}
+  .btn:hover{background:var(--btn-hi);color:#fff}
   .btn.sm{padding:9px 14px;font-size:14px;box-shadow:none}
 
   article{position:relative;z-index:1;max-width:720px;margin:0 auto;padding:56px 0 10px}
