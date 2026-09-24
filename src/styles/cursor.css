@@ -1,0 +1,41 @@
+/* Native custom cursor. CSS image only — no script, no easing.
+   Desktop mice only. Touch and coarse pointers keep the system cursor. */
+
+@media (hover: hover) and (pointer: fine) {
+  html,
+  body {
+    cursor: url("/cursor/dot.svg") 12 12, url("/cursor/dot.png") 12 12, auto;
+  }
+
+  a,
+  button,
+  .seg button,
+  [role="button"],
+  label[for],
+  summary,
+  .btn,
+  .where {
+    cursor: url("/cursor/dot-hover.svg") 16 16, url("/cursor/dot-hover.png") 16 16, pointer;
+  }
+
+  a:active,
+  button:active,
+  .seg button:active,
+  [role="button"]:active,
+  label[for]:active,
+  summary:active,
+  .btn:active,
+  .where:active {
+    cursor: url("/cursor/dot-down.svg") 16 16, url("/cursor/dot-down.png") 16 16, pointer;
+  }
+
+  input,
+  textarea,
+  [contenteditable="true"] {
+    cursor: text;
+  }
+
+  select {
+    cursor: default;
+  }
+}

@@ -5,6 +5,7 @@ import Analytics from '@vercel/analytics/astro';
 import SpeedInsights from '@vercel/speed-insights/astro';
 import html from '../home.html?raw';
 import motionCss from '../styles/motion.css?raw';
+import cursorCss from '../styles/cursor.css?raw';
 
 const headClose = html.indexOf('</head>');
 if (headClose === -1) {
@@ -15,6 +16,7 @@ const afterHeadClose = html.slice(headClose);
 ---
 <Fragment set:html={beforeHeadClose} />
 <style is:inline set:html={motionCss}></style>
+<style is:inline set:html={cursorCss}></style>
 <Analytics />
 <SpeedInsights />
 <Fragment set:html={afterHeadClose} />
