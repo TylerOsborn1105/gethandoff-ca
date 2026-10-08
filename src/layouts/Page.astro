@@ -16,6 +16,7 @@ const {
   noindex = false,
   schema = [],      // extra JSON-LD objects
   showByline = true,
+  shareTitle = '',  // og and twitter title, when it should differ from the visible H1
 } = Astro.props;
 
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
@@ -28,6 +29,7 @@ const updatedLabel = updated
 const aiHelpLead = 'AI help';
 const h1Text = typeof h1 === 'string' ? h1 : '';
 const highlightAiHelp = h1Text === aiHelpLead || h1Text.startsWith(`${aiHelpLead} `);
+const socialTitle = shareTitle || h1;
 ---
 <!doctype html>
 <html lang="en-CA">
@@ -44,12 +46,12 @@ const highlightAiHelp = h1Text === aiHelpLead || h1Text.startsWith(`${aiHelpLead
   <meta property="og:type" content="article">
   <meta property="og:url" content={canonical}>
   <meta property="og:site_name" content="Handoff">
-  <meta property="og:title" content={h1}>
+  <meta property="og:title" content={socialTitle}>
   <meta property="og:description" content={description}>
   <meta property="og:image" content={new URL('/og.png', Astro.site).href}>
   <meta property="og:locale" content="en_CA">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content={h1}>
+  <meta name="twitter:title" content={socialTitle}>
   <meta name="twitter:description" content={description}>
   <meta name="twitter:image" content={new URL('/og.png', Astro.site).href}>
   <meta name="theme-color" content="#FFFFFF">
