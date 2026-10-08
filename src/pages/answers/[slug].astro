@@ -26,6 +26,17 @@ const schema = [
     ],
   },
 ];
+const faqs = Array.isArray(data.faqs) ? data.faqs : [];
+if (faqs.length) {
+  schema.push({
+    '@context': 'https://schema.org', '@type': 'FAQPage',
+    mainEntity: faqs.map((item) => ({
+      '@type': 'Question',
+      name: item.q,
+      acceptedAnswer: { '@type': 'Answer', text: item.a },
+    })),
+  });
+}
 ---
 <Page title={data.title} description={data.description} h1={data.h1} dek={data.dek}
       updated={data.updated} draft={data.draft} schema={schema}>
