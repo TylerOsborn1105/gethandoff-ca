@@ -40,6 +40,7 @@ if (faq.length) {
 }
 ---
 <Page title={data.title} description={data.description} h1={data.h1} dek={data.dek}
+      shareTitle={entry.slug === 'delta' ? data.title : undefined}
       updated={data.updated} draft={data.draft} noindex={data.noindex === true} schema={schema}>
   <Content />
   {faq.length > 0 && (

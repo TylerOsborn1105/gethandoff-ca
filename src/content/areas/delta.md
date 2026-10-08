@@ -1,7 +1,7 @@
 ---
-title: "AI help for small businesses in Delta, Tsawwassen and Ladner | Handoff, Delta BC"
-h1: "AI help for small businesses in Delta, Tsawwassen and Ladner"
-description: "Busywork help for small businesses in Delta, Tsawwassen and Ladner. A free first hour at your place. Handoff, Delta BC."
+title: "AI help for small businesses in Tsawwassen and Ladner | Handoff, Tsawwassen BC"
+h1: "AI help for small businesses in Tsawwassen and Ladner"
+description: "Busywork help for small businesses in Tsawwassen and Ladner. A free first hour at your place. Handoff, Tsawwassen BC."
 dek: "The admin that eats your week, in plain English. A free hour at your place in Delta, Tsawwassen or Ladner."
 place: "Delta, Tsawwassen and Ladner"
 served: ["Delta", "Tsawwassen", "Ladner", "North Delta"]
