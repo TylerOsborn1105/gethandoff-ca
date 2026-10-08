@@ -25,6 +25,8 @@ For most small businesses, the tools are the cheapest part.
 
 For a five-person office, that's often **$150 to $250 a month** all in. Many owners start with one or two paid seats and grow from there.
 
+For current ChatGPT prices in Canadian dollars, and which plan fits a solo owner or a small team, see [ChatGPT for small business: which plan, and what it costs in CAD](/answers/chatgpt-for-small-business-plan-cost-cad/).
+
 ## Cost 2: Your time
 
 This is the cost nobody puts on the invoice, and it's usually the biggest.
