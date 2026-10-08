@@ -13,13 +13,14 @@ const {
   dek = '',
   updated = '',
   draft = false,
+  noindex = false,
   schema = [],      // extra JSON-LD objects
   showByline = true,
 } = Astro.props;
 
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 const markHtml = mark.replace('<svg ', '<svg class="tile" aria-hidden="true" ');
-const areaLinks = areas();
+const areaLinks = areas().filter((a) => !a.data.noindex);
 const book = 'https://calendly.com/tyler-echelontrades/handoff-free-hour';
 const updatedLabel = updated
   ? new Date(updated + 'T12:00:00').toLocaleDateString('en-CA', { month: 'long', year: 'numeric' })
@@ -38,6 +39,7 @@ const highlightAiHelp = h1Text === aiHelpLead || h1Text.startsWith(`${aiHelpLead
   <meta name="description" content={description}>
   <link rel="canonical" href={canonical}>
   {draft && <meta name="robots" content="noindex,nofollow">}
+  {!draft && noindex && <meta name="robots" content="noindex,follow">}
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <meta property="og:type" content="article">
   <meta property="og:url" content={canonical}>
@@ -46,6 +48,10 @@ const highlightAiHelp = h1Text === aiHelpLead || h1Text.startsWith(`${aiHelpLead
   <meta property="og:description" content={description}>
   <meta property="og:image" content={new URL('/og.png', Astro.site).href}>
   <meta property="og:locale" content="en_CA">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content={h1}>
+  <meta name="twitter:description" content={description}>
+  <meta name="twitter:image" content={new URL('/og.png', Astro.site).href}>
   <meta name="theme-color" content="#FFFFFF">
   <style is:inline set:html={motionCss}></style>
   <style is:inline set:html={cursorCss}></style>

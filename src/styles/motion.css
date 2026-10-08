@@ -35,6 +35,8 @@
   a.where,
   a.navlink,
   .list a,
+  .linklist a,
+  .links .more,
   footer a:not(.mark):not([href^="tel:"]):not([href^="mailto:"]) {
     background-image: linear-gradient(color-mix(in srgb, currentColor 55%, transparent), color-mix(in srgb, currentColor 55%, transparent));
     background-repeat: no-repeat;
@@ -58,6 +60,10 @@
   a.navlink:focus-visible,
   .list a:hover,
   .list a:focus-visible,
+  .linklist a:hover,
+  .linklist a:focus-visible,
+  .links .more:hover,
+  .links .more:focus-visible,
   footer a:not(.mark):not([href^="tel:"]):not([href^="mailto:"]):hover,
   footer a:not(.mark):not([href^="tel:"]):not([href^="mailto:"]):focus-visible {
     background-size: 100% 1px;
