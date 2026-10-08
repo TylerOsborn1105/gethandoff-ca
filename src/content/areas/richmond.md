@@ -1,5 +1,5 @@
 ---
-title: "AI help for small businesses in Richmond, BC | Handoff"
+title: "AI help for small businesses in Richmond, BC | Handoff, Richmond BC"
 h1: "AI help for small businesses in Richmond"
 description: "AI help for small businesses in Richmond. A free hour at your place, teaching for your team, and published prices."
 dek: "A free hour at your place in Richmond, plus teaching if you want it. Published prices."
@@ -7,7 +7,8 @@ place: "Richmond"
 served: ["Richmond"]
 updated: "2026-09-22"
 draft: false
-order: 2
+noindex: true
+order: 3
 ---
 
 I offer a free hour at your place in Richmond, and teaching for you and your team if you want to go further. The first hour is free. A half-day of teaching is $2,000. Setup is $1,500 to $3,500. Custom builds start at $5,000. Canadian dollars, plus tax. [Book your free hour](https://calendly.com/tyler-echelontrades/handoff-free-hour) or read the [Plain answers](/answers/).

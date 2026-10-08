@@ -9,6 +9,7 @@ const { entry } = Astro.props;
 const { data, Content } = entry;
 const site = Astro.site.href.replace(/\/$/, '');
 const url = `${site}/ai-help/${entry.slug}/`;
+const faq = Array.isArray(data.faq) ? data.faq.filter((item) => item?.q && item?.a) : [];
 const schema = [
   {
     '@context': 'https://schema.org', '@type': 'Service',
@@ -26,8 +27,30 @@ const schema = [
     ],
   },
 ];
+if (faq.length) {
+  schema.push({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faq.map((item) => ({
+      '@type': 'Question',
+      name: item.q,
+      acceptedAnswer: { '@type': 'Answer', text: item.a },
+    })),
+  });
+}
 ---
 <Page title={data.title} description={data.description} h1={data.h1} dek={data.dek}
-      updated={data.updated} draft={data.draft} schema={schema}>
+      updated={data.updated} draft={data.draft} noindex={data.noindex === true} schema={schema}>
   <Content />
+  {faq.length > 0 && (
+    <section aria-labelledby="common-questions">
+      <h2 id="common-questions">Common questions</h2>
+      {faq.map((item) => (
+        <div>
+          <h3>{item.q}</h3>
+          <p>{item.a}</p>
+        </div>
+      ))}
+    </section>
+  )}
 </Page>
