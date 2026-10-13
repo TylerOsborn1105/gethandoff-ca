@@ -92,3 +92,5 @@ It's rarely the tool itself. It's usually one of these:
 You don't have to choose between using these tools and protecting your customers. Use a business account, keep the high-risk details out, give everyone their own login, and have a person check what goes out. That covers the large majority of the risk for a small business, and it takes an afternoon to set up.
 
 If you're about to put real customer information through AI and want someone to walk through it with you, that's a good use of the free hour. I'll show you what goes in, what never does, and who can see it.
+
+If you are licensed in real estate in BC, [AI tools for real estate agents BC](/answers/ai-tools-for-real-estate-agents-bc/) covers what is useful on a listing, and what should stay out of the tool.
