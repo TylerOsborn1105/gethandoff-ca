@@ -99,3 +99,5 @@ I don't want to sound apologetic or corporate. Write a short, plain note.
 Pick the one that costs you the most evenings. For most owners, that's either the weekly customer questions or the follow-ups, because both happen constantly and both cost real money when they slip.
 
 If you want a hand working out where your own hours are going, that's exactly what the free hour is for. And if you'd rather start on your own, [How to start using AI in your small business](/answers/how-to-start-using-ai-in-a-small-business/) has the step-by-step.
+
+If the job in front of you is a Google review, [How to reply to Google reviews with ChatGPT, in your own voice](/answers/reply-to-google-reviews-with-chatgpt-bc/) has prompts you can copy.
