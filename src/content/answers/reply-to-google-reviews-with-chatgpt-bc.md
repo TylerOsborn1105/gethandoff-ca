@@ -1,7 +1,7 @@
 ---
-title: "Reply to Google reviews with ChatGPT BC | Handoff, Delta"
-h1: "How to reply to Google reviews with ChatGPT BC, in your own voice"
-description: "How to reply to Google reviews with ChatGPT BC, in your own voice. Prompts for Tsawwassen, Ladner, South Surrey and White Rock. Handoff in Tsawwassen."
+title: "Reply to Google reviews with ChatGPT | Handoff, Tsawwassen"
+h1: "How to reply to Google reviews with ChatGPT, in your own voice"
+description: "This is how to reply to Google reviews with ChatGPT in your own voice, for a business in Tsawwassen, Ladner, South Surrey, or White Rock, BC."
 dek: "The review is public, and so is your reply. Draft it in your own voice, then post it yourself."
 published: "2026-10-13"
 updated: "2026-10-13"
@@ -20,7 +20,7 @@ faqs:
     a: "Draft a short reply that uses their name, names the specific problem, skips private details, and asks them to phone or email if it needs a longer talk. Read it out loud, then post it yourself. The prompts on this page are written for that."
 ---
 
-A Google review comes in while you are with a customer. You mean to answer it. Then the day ends, and the review is still sitting there. If that is your week in Tsawwassen, Ladner, South Surrey, or White Rock, this page shows you how to reply to Google reviews with ChatGPT BC. The draft should sound like you. You post it yourself.
+A Google review comes in while you are with a customer. You mean to answer it. Then the day ends, and the review is still sitting there. If that is your week in Tsawwassen, Ladner, South Surrey, or White Rock, this page shows you how to reply to Google reviews with ChatGPT. The draft should sound like you. You post it yourself.
 
 **The short answer:** copy the review, ask for a short draft in your own words, read it out loud, then paste the reply into Google. Skip the deal. Skip any private detail that was not already in the review.
 

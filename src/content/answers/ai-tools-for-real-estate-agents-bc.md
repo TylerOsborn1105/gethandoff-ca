@@ -1,7 +1,7 @@
 ---
-title: "AI tools for real estate agents BC | Handoff, Tsawwassen"
-h1: "AI tools for real estate agents BC: what helps, and what to keep out"
-description: "AI tools for real estate agents BC: listing drafts and follow-ups that help, and the client details to keep out. From Handoff in Tsawwassen."
+title: "AI tools for BC real estate agents | Handoff, Tsawwassen"
+h1: "AI tools for BC real estate agents: what helps, and what to keep out"
+description: "This is a plain guide for BC real estate agents on what AI tools help with, and what to keep out, for Tsawwassen, Ladner, South Surrey, and White Rock."
 dek: "The writing after a showing is the useful part. Client details, contracts, and unchecked claims stay out of the tool."
 published: "2026-10-13"
 updated: "2026-10-13"
@@ -20,7 +20,7 @@ faqs:
     a: "Yes. The free first hour is at your place in Tsawwassen, Ladner, South Surrey, or White Rock. You bring a real set of notes, and you leave with one way to draft the writing while the client details stay out."
 ---
 
-The notes from the showing are still in your phone. The buyer asked a question you have answered many times. The listing description waits until the house is quiet. AI tools for real estate agents BC are a reasonable way to get a first draft of that writing. Client names, prices, and private conversations stay out.
+The notes from the showing are still in your phone. The buyer asked a question you have answered many times. The listing description waits until the house is quiet. For an agent in BC, an AI tool is a reasonable way to get a first draft of that writing. Client names, prices, and private conversations stay out.
 
 **The short answer:** use the tool for wording, from facts you already checked. Keep client information out. Read every line before a client or the public sees it.
 
@@ -72,7 +72,7 @@ The version for any small business is in [Is ChatGPT safe for my customers' info
 
 Ask your managing broker what the brokerage allows before you paste a file. The guideline says a brokerage should have a clear policy on AI tools and on client information.
 
-## What does PIPA BC expect of you?
+## What does PIPA expect of you?
 
 PIPA is the Personal Information Protection Act. The Office of the Information and Privacy Commissioner for BC published a guide for businesses in October 2015, the 5th publication. I read it on 13 October 2026.
 
