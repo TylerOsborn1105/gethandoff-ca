@@ -44,6 +44,8 @@ What the business plan adds, if you have been unsure, is specific. OpenAI descri
 
 **The office already runs on Microsoft 365 or Google Workspace.** ChatGPT may be the wrong first purchase. [Copilot or ChatGPT: which one for a small office?](/answers/copilot-or-chatgpt-small-office/) compares them before you pay.
 
+If that office lives in Gmail, [Gemini in Gmail for a small business](/answers/gemini-in-gmail-small-business/) walks through a Monday morning on the Workspace plan you may already have.
+
 **You only open it a couple of times a week.** Stay on Free until it is clearly saving admin time. Go is CA$11 a month, and the Canadian page says it may include ads.
 
 ## Prices in Canadian dollars
