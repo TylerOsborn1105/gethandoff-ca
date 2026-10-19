@@ -14,7 +14,7 @@ faq:
   - q: "What happens in the free hour?"
     a: "I ask about your week, you show me a couple of things on your screen, and I teach you one thing you can use the next day. Within a day I send a one-page report: what I'd fix, what I wouldn't bother with, and what each would cost. It's yours either way. If you don't need me, I'll tell you."
   - q: "What does it cost after the free hour?"
-    a: "Teaching is $2,000 for a half-day with you and your team, or $900 a month to keep it going. Setup of tools you already pay for is $1,500 to $3,500. Custom builds start at $5,000, and an optional care plan for those builds starts at $600 a month. All prices are Canadian dollars, plus tax. Your report names the exact price for what you actually need."
+    a: "Teaching is $2,000 for a half-day with you and your team, or $900 a month to keep it going. Setup of tools you already pay for is $1,500 to $3,500. Custom builds come with a care plan for the first 12 months. You can pay $5,000 up front, then $600 a month for care, or spread it out: $2,500 up front, then $900 a month, with a 12-month minimum. All prices are Canadian dollars, plus tax. Your report names the exact price for what you actually need."
   - q: "Is my business too small?"
     a: "Small is an advantage. One person decides, and the first fix is usually something you do every week."
   - q: "Will this replace my staff?"
@@ -62,7 +62,7 @@ Teaching is a half-day with you and your team, on your real work, in plain words
 
 Setup means the tools you already pay for, fitted to how you work. ChatGPT, Copilot, the inbox, the spreadsheets. That is $1,500 to $3,500. The point is that the tool does the job without you babysitting it.
 
-A custom build is only for the job nothing off the shelf fits. It starts at $5,000, it runs on your accounts, and you own it. You can take my access away. An optional care plan, for those builds only, starts at $600 a month.
+A custom build is only for the job nothing off the shelf fits. It starts at $5,000, it runs on your accounts, and you own it. You can take my access away. Every build comes with a care plan for the first 12 months, so it keeps working after I leave. Pay up front: $5,000, then $600 a month for care. Or spread it out: $2,500 up front, then $900 a month, 12-month minimum.
 
 If you want to test the idea before you book, start with [How to start using AI in your small business](/answers/how-to-start-using-ai-in-a-small-business/).
 
@@ -82,7 +82,7 @@ All prices are in Canadian dollars, plus tax. They are the same prices as on the
 | Teaching | A half-day with you and your team, on your real work | $2,000 |
 | Keep it going | A monthly session, a line for questions between, and a written cheat sheet | $900 a month |
 | Setup | Tools you already pay for, set up to fit how you work | $1,500 to $3,500 |
-| Custom builds | Built for your business. You own it outright | From $5,000 |
-| Care plan | Optional, and only for custom builds | From $600 a month |
+| Custom builds, paid up front | Built for your business, with a care plan for the first 12 months. You own it outright | $5,000, then $600 a month for care |
+| Custom builds, spread out | The same build and care, paid over time | $2,500 up front, then $900 a month, 12-month minimum |
 
 More on tool prices, payback, and pricing red flags is in [What does AI help cost a small business in BC?](/answers/what-does-ai-help-cost-small-business-bc/). Which ChatGPT plan to buy, in Canadian dollars, is in [ChatGPT for small business: which plan, and what it costs in CAD](/answers/chatgpt-for-small-business-plan-cost-cad/).
