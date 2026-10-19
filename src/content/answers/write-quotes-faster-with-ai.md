@@ -1,7 +1,7 @@
 ---
 title: "How to write quotes and proposals faster with AI | Handoff"
 h1: "How to write quotes faster with AI"
-description: "A practical way for any small business to turn notes into accurate quotes and proposals with AI: build a quote kit, draft from voice notes, keep control of the numbers, and follow up."
+description: "Turn your notes into accurate quotes and proposals with AI: build a quote kit, draft from voice notes, keep control of the numbers, and follow up."
 dek: "Quotes that sit unwritten are lost work. Here’s how to get from notes to a sent quote the same day, while you stay in charge of every number."
 published: "2026-09-22"
 updated: "2026-09-22"

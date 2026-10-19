@@ -1,7 +1,7 @@
 ---
 title: "AI tools for BC real estate agents | Handoff, Tsawwassen"
 h1: "AI tools for BC real estate agents: what helps, and what to keep out"
-description: "This is a plain guide for BC real estate agents on what AI tools help with, and what to keep out, for Tsawwassen, Ladner, South Surrey, and White Rock."
+description: "What AI tools help BC real estate agents with, and what to keep out of them. A plain guide for agents in Tsawwassen, Ladner, South Surrey and White Rock."
 dek: "The writing after a showing is the useful part. Client details, contracts, and unchecked claims stay out of the tool."
 published: "2026-10-13"
 updated: "2026-10-13"

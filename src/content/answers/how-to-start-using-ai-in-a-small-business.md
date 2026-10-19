@@ -1,5 +1,5 @@
 ---
-title: "How to start using AI in a small business (a plain guide) | Handoff"
+title: "How to start using AI in a small business | Handoff"
 h1: "How to start using AI in your small business, without feeling behind"
 description: "A plain, step-by-step way for small business owners to start using AI: find the right first job, set it up properly, and check it’s actually saving you time."
 dek: "You don’t need to understand the technology. You need one job that eats your week, and an honest way to test whether this helps with it."
@@ -86,7 +86,7 @@ For more ideas, [Five admin jobs any small business can hand off this month](/an
 You can get a long way on your own with the steps above. Outside help starts to make sense when:
 
 - you've found a job that clearly works, and you want it to happen **without** you copying and pasting each time;
-- you want your whole team using it the same way, not five people each doing their own thing;
+- you want your whole team using it the same way, not five people each doing their own thing (if the team is nervous about it, [Will AI replace my staff?](/answers/will-ai-replace-my-staff/) is worth reading first);
 - you're about to put real customer information through it and want it set up safely.
 
 That's the point where a few hours of setup can save a few hours every week. Before that point, the most useful thing anyone can give you is a good first job and permission to ask basic questions. Most of what people think they should already know, nobody knows.

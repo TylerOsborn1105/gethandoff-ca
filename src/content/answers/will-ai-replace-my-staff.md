@@ -1,5 +1,5 @@
 ---
-title: "Will AI replace my staff? An honest answer for small businesses | Handoff"
+title: "Will AI replace my staff? An honest answer | Handoff"
 h1: "Will AI replace my staff?"
 description: "An honest look at what AI replaces in a small business (tasks, not people), where roles really do change, and how to bring it in without scaring your team."
 dek: "In a small business, it almost always replaces tasks, not people. But roles do change, and how you bring it in decides whether your team welcomes it or dreads it."

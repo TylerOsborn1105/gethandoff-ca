@@ -1,7 +1,7 @@
 ---
 title: "Gemini in Gmail for a small business | Handoff, Tsawwassen"
 h1: "Gemini in Gmail for a small business"
-description: "Gemini in Gmail for a small business: summarize a thread, draft the reply, find a file in Drive, and see which Google Workspace plan includes it. Handoff, Tsawwassen."
+description: "Gemini in Gmail for a small business: summarize a thread, draft the reply, find a file in Drive, and see which Workspace plan includes it. Handoff, Tsawwassen."
 dek: "Monday starts with a thread you meant to answer on Friday. If the business pays for Google Workspace, the assistant may already be in the inbox."
 published: "2026-10-16"
 updated: "2026-10-16"
@@ -28,7 +28,7 @@ The thread from Friday is still unanswered, and the file they mean is in Drive u
 
 *Prices, plan names, and feature lists below are from Google's pages, checked on 16 October 2026. If a button has moved, follow the help page.*
 
-If the office runs on Microsoft 365, start with [Copilot or ChatGPT: which one for a small office?](/answers/copilot-or-chatgpt-small-office/). This page is for Gmail and Drive.
+If the office runs on Microsoft 365, start with [Copilot or ChatGPT: which one for a small office?](/answers/copilot-or-chatgpt-small-office/). For other jobs beyond the inbox, see [Five admin jobs any small business can hand off this month](/answers/admin-jobs-to-hand-off/). This page is for Gmail and Drive.
 
 ## Where do you find Gemini in Gmail?
 

@@ -1,7 +1,7 @@
 ---
-title: "Is ChatGPT safe for customer information? A guide for BC businesses | Handoff"
+title: "Is ChatGPT safe for customer information in BC? | Handoff"
 h1: "Is ChatGPT safe for my customers’ information?"
-description: "What actually happens to what you type into ChatGPT, Copilot or Gemini, what BC privacy law expects of small businesses, and simple rules to keep customer information safe."
+description: "What happens to what you type into ChatGPT, Copilot or Gemini, what BC privacy law expects of a small business, and simple rules to keep customer details safe."
 dek: "It can be, if it’s set up properly. Here’s what happens to what you type, what the law expects of you, and the handful of rules that cover most of the risk."
 published: "2026-09-22"
 updated: "2026-09-22"
