@@ -43,8 +43,8 @@ Outside help falls into three kinds. Here's how I price each one, as an example 
 | **Teaching** | A half-day with you and your team, working on your real work | $2,000 |
 | **Ongoing teaching** | A monthly session, a line for questions between, and a written cheat sheet each month | $900 a month |
 | **Setup** | Setting up tools you already have (or cheap ones) to fit how you work | $1,500 to $3,500 |
-| **Custom tools** | Something built for your business, that you own outright | From $5,000 |
-| **Care plan** | Optional, for custom tools only: someone watching it and fixing it | From $600 a month |
+| **Custom tools, paid up front** | Something built for your business, that you own outright, with a care plan for the first 12 months: someone watching it and fixing it | $5,000, then $600 a month for care |
+| **Custom tools, spread out** | The same build and care, paid over time | $2,500 up front, then $900 a month, 12-month minimum |
 
 Elsewhere you'll see everything from $99 online courses to consulting firms charging tens of thousands for "AI strategy." The right price depends less on the size of the project than on whether it pays for itself.
 
@@ -58,7 +58,7 @@ hours saved per week × what an hour is worth to you × 52
 
 Say a job currently takes 4 hours a week (quotes, customer replies, chasing invoices) and setting it up properly cuts that to 1 hour. That's 3 hours back each week. If your time is worth $60 an hour, that's about **$9,400 a year**.
 
-Against that number, a $1,500 setup pays for itself in about two months. A $5,000 custom tool pays for itself in about six. A $2,000 half-day of training pays back quickly if even two people on your team save an hour a week each.
+Against that number, a $1,500 setup pays for itself in about two months. A custom tool takes longer, because the care plan is part of the cost. Paid up front, the build and its first 12 months of care come to $12,200, so check that against what it saves you. A $2,000 half-day of training pays back quickly if even two people on your team save an hour a week each.
 
 If the math doesn't work, don't do it. Honestly, that's the most useful thing this page can tell you. Some jobs aren't worth paying to fix, and anyone helping you should be willing to say so.
 
