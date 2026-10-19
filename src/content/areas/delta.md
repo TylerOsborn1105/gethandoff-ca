@@ -25,7 +25,7 @@ Most of the week goes to work that doesn't make any money. Quotes get rebuilt fr
 
 ## Who this is for
 
-This is for small businesses in Delta. You might do the paperwork yourself, or you might have a few people who lose hours to retyping. Shops, offices, trades and clinics do different work. The waste in the week looks the same.
+This is for small businesses in Delta. You might do the paperwork yourself, or you might have a few people who lose hours to retyping. Shops, offices, clinics and studios do different work. The waste in the week looks the same.
 
 Ladner, Tsawwassen and North Delta are the three communities that make up the [City of Delta](https://delta.ca/discover-delta/about-delta). I'm based in Tsawwassen, and I come to you in all three.
 
