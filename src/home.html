@@ -163,6 +163,11 @@ h1,h2,h3,.display{text-wrap:balance}p{text-wrap:pretty}
 @media (max-width:600px){.nr{grid-template-columns:1fr;gap:10px}.nv{flex-direction:row;align-items:center;justify-content:space-between}}
 @media (max-width:420px){.total b{font-size:18px;text-align:right;white-space:nowrap}}
 @media (max-width:381px){.total{flex-direction:column;align-items:flex-start;gap:2px}}
+.pnote{font-size:13px;line-height:1.4;color:var(--ink2);margin:-4px 0 10px}
+.pwhy{display:block;font-size:12px;line-height:1.3;color:var(--ink2);margin-top:4px;max-width:150px;margin-left:auto;text-align:right}
+.dsum{flex-wrap:wrap}.dsum b{font-size:17px!important;line-height:1.3;text-align:right;max-width:300px;letter-spacing:-.01em;white-space:normal!important}.dsum em{flex-basis:100%;text-align:right;font-style:normal;font-size:12px;color:var(--ink2);margin-top:4px}
+@media (max-width:381px){.dsum b,.dsum em{text-align:left}}
+@media (max-width:600px){.nv{flex-wrap:wrap;align-items:flex-start}.nv .pr{flex:0 0 100%;align-items:flex-start}.pwhy{max-width:none;margin-left:0;text-align:left}}
 
 .lead2{font-size:clamp(20px,2vw,24px)!important;line-height:1.3;color:var(--title)!important;letter-spacing:-.02em;margin:0 0 22px!important}
 .lead2 .g,.own .g{font-weight:800;background:var(--grad-text);-webkit-background-clip:text;background-clip:text;color:transparent}
@@ -206,9 +211,9 @@ h1,h2,h3,.display{text-wrap:balance}p{text-wrap:pretty}
 <div class="report fl" aria-label="Example of the one-page report you get after the free hour">
 <p class="eyebrow"><span class="ex">Example</span>The one-page report you get after your free hour</p>
 <h3>What I saw</h3>
-<p class="lead">Three jobs are eating your week. Here’s what I’d fix, what changes, and what it costs.</p>
-<div class="nr"><div class="nt"><p class="pb">You rebuild every quote from scratch, usually at night.</p><p class="fx"><span>The fix:</span> A draft is waiting when you sit down. You check the numbers and send it.</p></div><div class="nv"><span class="hb">4 hours a week back</span><span class="pr"><b>$3,500</b><span class="pl">To set up</span></span></div></div><div class="nr"><div class="nt"><p class="pb">You type the same answers to the same customer questions.</p><p class="fx"><span>The fix:</span> Replies are drafted in your words. You read them and hit send.</p></div><div class="nv"><span class="hb">3 hours a week back</span><span class="pr"><b>$1,500</b><span class="pl">To set up</span></span></div></div><div class="nr"><div class="nt"><p class="pb">Nobody remembers who’s owed a call back.</p><p class="fx"><span>The fix:</span> Each morning there’s a short list of who to call.</p></div><div class="nv"><span class="hb">2 hours a week back</span><span class="pr"><b>$5,000</b><span class="pl">To set up</span></span></div></div>
-<div class="total"><span>Time back</span><b>About&nbsp;9&nbsp;hours&nbsp;a&nbsp;week</b></div>
+<p class="lead">Three jobs are eating your week. Here’s what I’d fix, what changes, and what it costs.</p><p class="pnote">The price depends on how much there is to build, not on the hours saved.</p>
+<div class="nr"><div class="nt"><p class="pb">You type the same answers to the same customer questions.</p><p class="fx"><span>The fix:</span> Replies are drafted in your words. You read them and hit send.</p></div><div class="nv"><span class="hb">Faster replies, happier customers</span><span class="pr"><b>$1,500</b><span class="pl">To set up</span></span></div></div><div class="nr"><div class="nt"><p class="pb">You rebuild every quote from scratch, usually at night.</p><p class="fx"><span>The fix:</span> A draft is waiting when you sit down. You check the numbers and send it.</p></div><div class="nv"><span class="hb">Quotes out while the lead is hot</span><span class="pr"><b>$3,500</b><span class="pl">To set up</span></span></div></div><div class="nr"><div class="nt"><p class="pb">Nobody remembers who’s owed a call back.</p><p class="fx"><span>The fix:</span> Each morning there’s a short list of who to call.</p></div><div class="nv"><span class="hb">No more missed call-backs</span><span class="pr"><b>$5,000</b><span class="pl">To build</span><span class="pwhy">+ care plan, first 12 months</span></span></div></div>
+<div class="total dsum"><span>What changes</span><b>Replies are faster, quotes go out sooner, and nobody gets forgotten.</b><em>About 9 hours a week back, too.</em></div>
 <p class="rnote"><strong>Not worth paying for:</strong> new software. Your spreadsheet works fine.</p>
 <p class="rfoot">One page, in your own words, sent within a day. Yours either way.</p>
 </div>
