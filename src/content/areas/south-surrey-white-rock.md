@@ -1,7 +1,7 @@
 ---
-title: "AI help for small businesses in South Surrey and White Rock | Handoff, South Surrey BC"
+title: "AI help in South Surrey and White Rock | Handoff"
 h1: "AI help for small businesses in South Surrey and White Rock"
-description: "Busywork help for small businesses in South Surrey and White Rock. A free first hour at your place. Handoff, South Surrey BC."
+description: "Your first hour is free. I come to your place in South Surrey or White Rock and teach you one thing with AI that you can use the next day."
 dek: "The admin that eats your week, in plain English. A free hour at your place in South Surrey or White Rock."
 place: "South Surrey and White Rock"
 served: ["South Surrey", "White Rock"]
@@ -50,7 +50,9 @@ These are the everyday jobs, spelled out on the [admin jobs](/answers/admin-jobs
 - A morning list of who is owed a call, so follow-up does not depend on memory.
 - Receipts and rough notes turned into something you can file or send, with a person checking names, dates and totals.
 
-Staff do not get replaced. They stop doing the retyping and get back to the work you hired them for.
+Staff do not get replaced. They stop doing the retyping and get back to the work you hired them for. The longer version is in [Will AI replace my staff?](/answers/will-ai-replace-my-staff/).
+
+For quotes, [How to write quotes faster with AI](/answers/write-quotes-faster-with-ai/) is the step-by-step. If you sell real estate, [AI tools for BC real estate agents](/answers/ai-tools-for-real-estate-agents-bc/) covers what helps and what to keep out.
 
 ## Teaching, setup, and builds
 
@@ -83,4 +85,4 @@ All prices are in Canadian dollars, plus tax. They are the same prices as on the
 | Custom builds | Built for your business. You own it outright | From $5,000 |
 | Care plan | Optional, and only for custom builds | From $600 a month |
 
-More on tool prices, payback, and pricing red flags is in [What does AI help cost a small business in BC?](/answers/what-does-ai-help-cost-small-business-bc/).
+More on tool prices, payback, and pricing red flags is in [What does AI help cost a small business in BC?](/answers/what-does-ai-help-cost-small-business-bc/). Which ChatGPT plan to buy, in Canadian dollars, is in [ChatGPT for small business: which plan, and what it costs in CAD](/answers/chatgpt-for-small-business-plan-cost-cad/).

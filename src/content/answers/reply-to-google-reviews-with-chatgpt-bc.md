@@ -1,7 +1,7 @@
 ---
 title: "Reply to Google reviews with ChatGPT | Handoff, Tsawwassen"
 h1: "How to reply to Google reviews with ChatGPT, in your own voice"
-description: "This is how to reply to Google reviews with ChatGPT in your own voice, for a business in Tsawwassen, Ladner, South Surrey, or White Rock, BC."
+description: "How to reply to Google reviews with ChatGPT in your own voice, for a business in Tsawwassen, Ladner, South Surrey or White Rock, BC."
 dek: "The review is public, and so is your reply. Draft it in your own voice, then post it yourself."
 published: "2026-10-13"
 updated: "2026-10-13"
@@ -149,6 +149,8 @@ Draft a short reply that uses their name, names the specific problem, skips priv
 ## If the pile of reviews is the job you dread
 
 If you want to write the voice note together, and send one real reply while someone sits with you, that is a good use of the free hour. Handoff in Tsawwassen comes to businesses in Tsawwassen, Ladner, South Surrey, and White Rock. You leave with a note you can paste the next time a review comes in.
+
+If you sell real estate, [AI tools for BC real estate agents](/answers/ai-tools-for-real-estate-agents-bc/) covers listing write-ups and what to keep out of the tool.
 
 The local pages are [AI help for Delta, Tsawwassen and Ladner](/ai-help/delta/) and [AI help for South Surrey and White Rock](/ai-help/south-surrey-white-rock/).
 

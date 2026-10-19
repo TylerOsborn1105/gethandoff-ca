@@ -1,7 +1,7 @@
 ---
-title: "Copilot or ChatGPT: which is better for a small office? | Handoff"
+title: "Copilot or ChatGPT for a small office? | Handoff"
 h1: "Copilot or ChatGPT: which one for a small office?"
-description: "A plain comparison of Microsoft Copilot, ChatGPT and Google Gemini for small offices: where each fits, what each can see, cost, privacy, and a simple two-week test to decide."
+description: "Microsoft Copilot, ChatGPT and Google Gemini for a small office: where each fits, what each can see, cost, privacy, and a two-week test to decide."
 dek: "Short answer: use the one that lives where your work already lives. Here’s how to tell which that is, and a fair way to test them before you pay."
 published: "2026-09-22"
 updated: "2026-09-22"
@@ -67,3 +67,5 @@ At the end of two weeks, the answer is usually obvious, and it's based on your w
 The most common mistake isn't picking the wrong tool. It's buying seats for everyone, giving no guidance, and waiting for magic. Three months later, two people use it and everyone else has forgotten the login.
 
 Whichever you pick, give everyone the same starting point: the three jobs it's for, a few instructions that work, and what never goes in. That's the difference between a tool you pay for and a tool you use.
+
+If ChatGPT wins, [ChatGPT for small business: which plan, and what it costs in CAD](/answers/chatgpt-for-small-business-plan-cost-cad/) shows which plan to buy. A good first job to test both on is a quote, and [How to write quotes faster with AI](/answers/write-quotes-faster-with-ai/) walks through it.

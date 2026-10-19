@@ -1,5 +1,5 @@
 ---
-title: "5 admin jobs any small business can hand off to AI this month | Handoff"
+title: "5 admin jobs a small business can hand off to AI | Handoff"
 h1: "Five admin jobs any small business can hand off this month"
 description: "Five everyday admin jobs that AI handles well in almost any small business, with what changes, how to try each one yourself, and what to watch out for."
 dek: "Every business is different, but the paperwork isn’t. These five jobs show up in almost every small business, and each one can start getting easier this week."

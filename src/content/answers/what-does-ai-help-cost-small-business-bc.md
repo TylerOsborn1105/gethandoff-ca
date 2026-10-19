@@ -1,7 +1,7 @@
 ---
-title: "What does AI help cost a small business in BC? Real prices | Handoff"
+title: "What does AI help cost a small business in BC? | Handoff"
 h1: "What does AI help cost a small business in BC?"
-description: "The three real costs of using AI in a small business (the tools, your time and outside help), with actual prices, simple payback math and the pricing red flags to avoid."
+description: "The three costs of using AI in a small business: the tools, your time and outside help. Real prices, simple payback math, and the pricing red flags to avoid."
 dek: "There are three costs: the tools, your time, and any help you bring in. Here’s what each one really runs, and how to tell whether it’ll pay for itself."
 published: "2026-09-22"
 updated: "2026-09-22"

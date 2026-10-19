@@ -1,7 +1,7 @@
 ---
-title: "What a free AI assessment should include (and the red flags) | Handoff"
+title: "What a free AI assessment should include | Handoff"
 h1: "What a free AI assessment should include, and the red flags"
-description: "Many AI consultants offer a free assessment or audit. Here’s what a genuinely useful one looks like, how to prepare, and the warning signs that it’s really a sales pitch."
+description: "What a useful free AI assessment or audit looks like, how to get ready for one, and the warning signs that it’s really a sales pitch."
 dek: "A good one leaves you with something useful even if you never hire anyone. A bad one is a sales pitch with a clipboard. Here’s how to tell them apart."
 published: "2026-09-22"
 updated: "2026-09-22"

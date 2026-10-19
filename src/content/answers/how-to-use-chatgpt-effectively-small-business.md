@@ -1,7 +1,7 @@
 ---
-title: "How to use ChatGPT effectively in a small business | Handoff, Tsawwassen"
+title: "Using ChatGPT effectively in a small business | Handoff"
 h1: "How to use ChatGPT effectively in a small business"
-description: "How to use ChatGPT effectively for small-business admin: give it context, show your own writing, make it ask you questions, and check the facts. Handoff, Tsawwassen."
+description: "How to use ChatGPT for small business admin: give it context, show it your own writing, have it ask you questions, and check the facts. Handoff, Tsawwassen."
 dek: "You asked it the way you ask Google, and the reply could belong to any shop in any town. Brief it like a new person on their first Monday."
 published: "2026-10-16"
 updated: "2026-10-16"

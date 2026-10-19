@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT for small business: which plan, and what it costs in CAD | Handoff, Delta BC"
+title: "Which ChatGPT plan for a small business, in CAD | Handoff"
 h1: "ChatGPT for small business: which plan, and what it costs in CAD"
 description: "Which ChatGPT plan a small business should buy, with OpenAI's prices in Canadian dollars. A plain guide from Handoff, Delta BC."
 dek: "Most owners either pay for a plan they don't need, or stay on a free login that isn't meant for the whole team. Here's which plan fits, in Canadian dollars."

@@ -1,7 +1,7 @@
 ---
-title: "AI help for small businesses in Tsawwassen and Ladner | Handoff, Tsawwassen BC"
+title: "AI help for Tsawwassen and Ladner businesses | Handoff"
 h1: "AI help for small businesses in Tsawwassen and Ladner"
-description: "Busywork help for small businesses in Tsawwassen and Ladner. A free first hour at your place. Handoff, Tsawwassen BC."
+description: "Your first hour is free. I come to your place in Tsawwassen, Ladner or North Delta and teach you one thing with AI that you can use the next day."
 dek: "The admin that eats your week, in plain English. A free hour at your place in Delta, Tsawwassen or Ladner."
 place: "Delta, Tsawwassen and Ladner"
 served: ["Delta", "Tsawwassen", "Ladner", "North Delta"]
@@ -42,6 +42,8 @@ These are the ordinary admin jobs, the kind already described on the [admin jobs
 
 A person still checks the work before it goes anywhere. The aim is to stop doing the typing, not to stop paying attention. If a job is not worth paying to fix, the report says so.
 
+If quotes are the job you dread, [How to write quotes faster with AI](/answers/write-quotes-faster-with-ai/) shows how to get from notes to a draft. If you're wondering what this means for your team, [Will AI replace my staff?](/answers/will-ai-replace-my-staff/) is the honest answer. If you sell real estate, [AI tools for BC real estate agents](/answers/ai-tools-for-real-estate-agents-bc/) covers what helps and what to keep out.
+
 ## The free first hour
 
 The first hour is free, and the usual version is at your place. I ask about your week, you show me a couple of things on your screen, and I teach you one thing you can use the next day. Within a day I send a one-page report: what I'd fix, what I wouldn't bother with, and what each would cost. It's yours either way. If you don't need me, I'll tell you.
@@ -81,4 +83,4 @@ All prices are in Canadian dollars, plus tax. The report names the exact price f
 | Custom builds | Built for your business. You own it outright | From $5,000 |
 | Care plan | Optional, and only for custom builds | From $600 a month |
 
-The longer answer, including what the tools themselves cost, is in [What does AI help cost a small business in BC?](/answers/what-does-ai-help-cost-small-business-bc/).
+The longer answer, including what the tools themselves cost, is in [What does AI help cost a small business in BC?](/answers/what-does-ai-help-cost-small-business-bc/). Which ChatGPT plan to buy, in Canadian dollars, is in [ChatGPT for small business: which plan, and what it costs in CAD](/answers/chatgpt-for-small-business-plan-cost-cad/).
