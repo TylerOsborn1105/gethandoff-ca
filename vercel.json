@@ -1,5 +1,10 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": "astro",
-  "trailingSlash": true
+  "trailingSlash": true,
+  "redirects": [
+    { "source": "/ai-help", "destination": "/ai-help/delta/", "permanent": true },
+    { "source": "/pricing", "destination": "/#pricing", "permanent": true },
+    { "source": "/sitemap.xml", "destination": "/sitemap-index.xml", "permanent": true }
+  ]
 }
