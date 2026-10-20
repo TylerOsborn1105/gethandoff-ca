@@ -152,6 +152,8 @@ If you want to write the voice note together, and send one real reply while some
 
 If you sell real estate, [AI tools for BC real estate agents](/answers/ai-tools-for-real-estate-agents-bc/) covers listing write-ups and what to keep out of the tool.
 
+A shorter prompt for the reply itself sits with nine others in [ChatGPT prompts for small business: 10 you can copy today](/answers/chatgpt-prompts-for-small-business/).
+
 The local pages are [AI help for Delta, Tsawwassen and Ladner](/ai-help/delta/) and [AI help for South Surrey and White Rock](/ai-help/south-surrey-white-rock/).
 
 [Book your free hour](https://calendly.com/tyler-echelontrades/handoff-free-hour).

@@ -1,4 +1,4 @@
-/* Native custom cursor. CSS image only — no script, no easing.
+/* Native custom cursor. CSS image only, no script, no easing.
    Desktop mice only. Touch and coarse pointers keep the system cursor.
    2x and 3x PNGs keep the dot sharp when Windows scales the display.
    The first url() rule stays so browsers that reject image-set in

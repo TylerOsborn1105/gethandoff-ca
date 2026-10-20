@@ -120,6 +120,8 @@ OpenAI's data controls page, checked the same day, says turning the training set
 
 Canadian prices, and which plan fits one person versus a small team, are in [ChatGPT for small business: which plan, and what it costs in CAD](/answers/chatgpt-for-small-business-plan-cost-cad/). What never goes in the box is in [Is ChatGPT safe for my customers' information?](/answers/is-chatgpt-safe-for-customer-information/).
 
+Ten prompts you can copy, for a quote, a follow-up, a review, or a hard email, are in [ChatGPT prompts for small business: 10 you can copy today](/answers/chatgpt-prompts-for-small-business/).
+
 ## Questions owners ask
 
 ### How do I use ChatGPT effectively if I am not technical?

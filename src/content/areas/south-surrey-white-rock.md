@@ -54,6 +54,8 @@ Staff do not get replaced. They stop doing the retyping and get back to the work
 
 For quotes, [How to write quotes faster with AI](/answers/write-quotes-faster-with-ai/) is the step-by-step. If you sell real estate, [AI tools for BC real estate agents](/answers/ai-tools-for-real-estate-agents-bc/) covers what helps and what to keep out.
 
+If missed calls are the problem, [AI receptionist for small business Canada: worth it or not?](/answers/ai-receptionist-small-business-canada/) covers when an answering tool is worth it. Wording you can paste for a follow-up, a review, or a hard email is in [ChatGPT prompts for small business: 10 you can copy today](/answers/chatgpt-prompts-for-small-business/).
+
 ## Teaching, setup, and builds
 
 I teach first. I only build when it's worth it.

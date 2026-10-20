@@ -94,3 +94,5 @@ You don't have to choose between using these tools and protecting your customers
 If you're about to put real customer information through AI and want someone to walk through it with you, that's a good use of the free hour. I'll show you what goes in, what never does, and who can see it.
 
 If you are licensed in real estate in BC, [AI tools for BC real estate agents](/answers/ai-tools-for-real-estate-agents-bc/) covers what is useful on a listing, and what should stay out of the tool.
+
+If the tool answers or records the phone, [AI receptionist for small business Canada: worth it or not?](/answers/ai-receptionist-small-business-canada/) covers what the privacy offices say about recording a customer call.

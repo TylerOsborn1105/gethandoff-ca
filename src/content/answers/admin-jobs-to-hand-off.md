@@ -101,3 +101,5 @@ Pick the one that costs you the most evenings. For most owners, that's either th
 If you want a hand working out where your own hours are going, that's exactly what the free hour is for. And if you'd rather start on your own, [How to start using AI in your small business](/answers/how-to-start-using-ai-in-a-small-business/) has the step-by-step.
 
 If the job in front of you is a Google review, [How to reply to Google reviews with ChatGPT, in your own voice](/answers/reply-to-google-reviews-with-chatgpt-bc/) has prompts you can copy.
+
+If the problem is the phone, [AI receptionist for small business Canada: worth it or not?](/answers/ai-receptionist-small-business-canada/) is about missed calls and what to try before you pay for an answering tool.

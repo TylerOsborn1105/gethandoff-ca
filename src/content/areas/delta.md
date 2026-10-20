@@ -44,6 +44,8 @@ A person still checks the work before it goes anywhere. The aim is to stop doing
 
 If quotes are the job you dread, [How to write quotes faster with AI](/answers/write-quotes-faster-with-ai/) shows how to get from notes to a draft. If you're wondering what this means for your team, [Will AI replace my staff?](/answers/will-ai-replace-my-staff/) is the honest answer. If you sell real estate, [AI tools for BC real estate agents](/answers/ai-tools-for-real-estate-agents-bc/) covers what helps and what to keep out.
 
+If the phone rings while you are on a job, [AI receptionist for small business Canada: worth it or not?](/answers/ai-receptionist-small-business-canada/) looks at whether an answering tool is worth paying for. Ten things you can paste into ChatGPT are in [ChatGPT prompts for small business: 10 you can copy today](/answers/chatgpt-prompts-for-small-business/).
+
 ## The free first hour
 
 The first hour is free, and the usual version is at your place. I ask about your week, you show me a couple of things on your screen, and I teach you one thing you can use the next day. Within a day I send a one-page report: what I'd fix, what I wouldn't bother with, and what each would cost. It's yours either way. If you don't need me, I'll tell you.

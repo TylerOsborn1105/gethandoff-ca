@@ -85,3 +85,5 @@ The steps above work with nothing more than a phone and a chat tool. Once you're
 <!-- TYLER: End with a before-and-after from your own experience or a client's: quotes per week, time per quote, and how fast they now go out. -->
 
 For other everyday jobs that work the same way, see [Five admin jobs any small business can hand off this month](/answers/admin-jobs-to-hand-off/).
+
+Ten prompts you can copy, including a quote and the follow-up, are in [ChatGPT prompts for small business: 10 you can copy today](/answers/chatgpt-prompts-for-small-business/).

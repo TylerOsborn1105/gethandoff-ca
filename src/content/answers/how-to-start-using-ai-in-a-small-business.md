@@ -94,3 +94,5 @@ That's the point where a few hours of setup can save a few hours every week. Bef
 <!-- TYLER: Close with a short, real example from a free hour or your own work: what the first job was, and what changed. Numbers if you have them. -->
 
 If the tool you already opened is ChatGPT, and the answer came back generic, [How to use ChatGPT effectively in a small business](/answers/how-to-use-chatgpt-effectively-small-business/) is the page for the asking itself.
+
+Ten prompts you can copy for the jobs that actually come up are in [ChatGPT prompts for small business: 10 you can copy today](/answers/chatgpt-prompts-for-small-business/).
