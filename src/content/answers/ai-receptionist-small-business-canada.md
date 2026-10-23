@@ -82,7 +82,7 @@ A greeting that says when you call back, a list of who you owe a call, and a sam
 
 I teach you how to use AI tools so you can grow your business, in person, at your place. In the free hour we look at how calls come in now, and I show you one thing you can start the next day, whether that is a better greeting, a same-day text, or a paid tool. There are no dumb questions.
 
-The local pages are [AI help for small businesses near you](/ai-help/delta/) and [one more nearby area](/ai-help/south-surrey-white-rock/).
+The local pages are [AI help for small businesses near you](/ai-help/delta/) and [AI help in your area](/ai-help/south-surrey-white-rock/).
 
 [Book your free hour](https://calendly.com/gethandoff/handoff-free-hour).
 

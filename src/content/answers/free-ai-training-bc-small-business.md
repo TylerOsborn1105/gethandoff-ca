@@ -17,7 +17,7 @@ faqs:
   - q: "Can a Delta business use the Fraser Valley Regional Library?"
     a: "Delta is on the library's municipality list. Signing up is free, in person, with ID that shows your current mailing address. A business in a served area can apply for a free institutional membership with a letter on company letterhead."
   - q: "Where does a free first hour with Handoff fit?"
-    a: "After you pick one real task. Handoff in Tsawwassen comes to your desk and teaches that task on your own screen. The first hour is free."
+    a: "After you pick one real task. Handoff comes to your desk and teaches that task on your own screen. The first hour is free."
 ---
 
 Free AI training for small business BC owners should mean a lesson you can start without a bill. A lot of what shows up is a certificate that Google limits to United States businesses.

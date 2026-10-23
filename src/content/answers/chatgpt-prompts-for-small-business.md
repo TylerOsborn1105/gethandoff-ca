@@ -207,6 +207,6 @@ You can try them on a free login if names and customer details stay out. Which p
 
 I teach you how to use AI tools like these so you can grow your business, in person, at your place. In the free hour we run one of these on a real email of yours, and you leave with a prompt you can reuse tomorrow. There are no dumb questions.
 
-The local pages are [AI help for small businesses near you](/ai-help/delta/) and [one more nearby area](/ai-help/south-surrey-white-rock/).
+The local pages are [AI help for small businesses near you](/ai-help/delta/) and [AI help in your area](/ai-help/south-surrey-white-rock/).
 
 [Book your free hour](https://calendly.com/gethandoff/handoff-free-hour).

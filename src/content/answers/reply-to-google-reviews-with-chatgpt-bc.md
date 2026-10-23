@@ -16,7 +16,7 @@ faqs:
     a: "Google says the reply appears as your business, and your personal name is not shown as the replier. Google's tips for negative reviews also suggest a sign-off with your name or initials inside the words of the reply."
   - q: "Can I offer a discount in a Google review reply?"
     a: "Google says to avoid using the reply to offer deals or promotions. Google also says that offering incentives in exchange for a review, a changed review, or removal of a negative review is prohibited."
-  - q: "How do I reply to a bad review for a shop in Tsawwassen or Ladner?"
+  - q: "How do I reply to a bad review for a local shop?"
     a: "Draft a short reply that uses their name, names the specific problem, skips private details, and asks them to phone or email if it needs a longer talk. Read it out loud, then post it yourself. The prompts on this page are written for that."
 ---
 
@@ -152,7 +152,7 @@ If you want to write the voice note together, and send one real reply while some
 
 If you sell real estate, [AI tools for BC real estate agents](/answers/ai-tools-for-real-estate-agents-bc/) covers listing write-ups and what to keep out of the tool.
 
-The local pages are [AI help for small businesses near you](/ai-help/delta/) and [one more nearby area](/ai-help/south-surrey-white-rock/).
+The local pages are [AI help for small businesses near you](/ai-help/delta/) and [AI help in your area](/ai-help/south-surrey-white-rock/).
 
 [Book your free hour](https://calendly.com/gethandoff/handoff-free-hour).
 
