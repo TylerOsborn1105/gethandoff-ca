@@ -112,7 +112,7 @@ It may. On the Canadian pricing page checked on 8 October 2026, Go says it may i
 
 If you are still unsure it will save any admin time, use Free for a week on work with no customer details. If you already use it most days on your own, pay for Plus. If two or more people need it, try Business at the monthly price before the annual one.
 
-The first hour is free if you want a second look at the jobs eating your week. [Book your free hour](https://calendly.com/gethandoff/handoff-free-hour).
+The first hour is free if you want a second look at the one thing you'd most like to improve. [Book your free hour](https://calendly.com/gethandoff/handoff-free-hour).
 
 ## Sources
 

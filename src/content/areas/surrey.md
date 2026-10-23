@@ -11,4 +11,4 @@ noindex: true
 order: 4
 ---
 
-I offer a free hour at your place in Surrey or White Rock, and teaching for you and your team if you want to go further. The first hour is free. A half-day of teaching is $2,000. Setup is $1,500 to $3,500. Custom builds start at $5,000 and come with a care plan for the first 12 months. Canadian dollars, plus tax. [Book your free hour](https://calendly.com/gethandoff/handoff-free-hour) or read the [Plain answers](/answers/).
+I offer a free hour at your place in Surrey or White Rock, and teaching for you and your team if you want to go further. The first hour is free. A half-day of teaching is $2,000. Setup is $3,500. Custom builds start at $5,000 and come with a care plan for the first 12 months. Canadian dollars, plus tax. [Book your free hour](https://calendly.com/gethandoff/handoff-free-hour) or read the [Plain answers](/answers/).

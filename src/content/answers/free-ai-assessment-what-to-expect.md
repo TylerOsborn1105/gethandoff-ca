@@ -59,6 +59,6 @@ Clear answers to those five tell you most of what you need to know.
 
 ## How mine works
 
-Since I'm writing this: my free hour happens at your place. I ask about your week, you show me a couple of things on your screen, and I teach you one thing you can use the next day. Within a day, I send a one-page report with what I'd fix, what I wouldn't bother with, and what each would cost. It's yours either way, and if you don't need me, I'll tell you.
+Since I'm writing this: my free hour happens at your place. I ask about your week, you show me a couple of things on your screen, and I teach you one thing you can use the next day. Within a day, I send a one-page report with three things that would improve your business, how I'd do each one, and what it costs. It's yours either way, and if you don't need me, I'll tell you.
 
 <!-- TYLER: Add a short, real (anonymous) example of something you recommended someone NOT pay for, and why. It's the most convincing thing on this page. -->
