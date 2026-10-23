@@ -2,7 +2,7 @@
 title: "How to start using AI in a small business | Handoff"
 h1: "How to start using AI in your small business, without feeling behind"
 description: "A plain, step-by-step way for small business owners to start using AI: find the right first job, set it up properly, and check it’s actually saving you time."
-dek: "You don’t need to understand the technology. You need one job that eats your week, and an honest way to test whether this helps with it."
+dek: "You don’t need to understand the technology. You need the one thing you’d most like to improve, and an honest way to test whether this helps with it."
 published: "2026-09-22"
 updated: "2026-09-22"
 draft: false

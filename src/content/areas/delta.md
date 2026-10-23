@@ -2,7 +2,7 @@
 title: "AI help for Tsawwassen and Ladner businesses | Handoff"
 h1: "AI help for small businesses in Tsawwassen and Ladner"
 description: "Your first hour is free. I come to your place in Tsawwassen, Ladner or North Delta and teach you one thing with AI that you can use the next day."
-dek: "The admin that eats your week, in plain English. A free hour at your place in Delta, Tsawwassen or Ladner."
+dek: "Learn AI on the one thing you'd most like to improve, in plain English. A free hour at your place in Delta, Tsawwassen or Ladner."
 place: "Delta, Tsawwassen and Ladner"
 served: ["Delta", "Tsawwassen", "Ladner", "North Delta"]
 updated: "2026-10-08"
@@ -14,7 +14,7 @@ faq:
   - q: "What happens in the free hour?"
     a: "I ask about your week, you show me a couple of things on your screen, and I teach you one thing you can use the next day. Within a day I send a one-page report: what I'd fix, what I wouldn't bother with, and what each would cost. It's yours either way. If you don't need me, I'll tell you."
   - q: "What does it cost after the free hour?"
-    a: "Teaching is $2,000 for a half-day with you and your team, or $900 a month to keep it going. Setup of tools you already pay for is $1,500 to $3,500. Custom builds come with a care plan for the first 12 months. You can pay $5,000 up front, then $600 a month for care, or spread it out: $2,500 up front, then $900 a month, with a 12-month minimum. All prices are Canadian dollars, plus tax. Your report names the exact price for what you actually need."
+    a: "Teaching is $2,000 for a half-day with you and your team. Setup of tools you already pay for is $3,500. Custom builds are $5,000, then $600 a month for care for the first 12 months. All prices are Canadian dollars, plus tax. Every job is priced on scope and what we're teaching, so these are starting points. Your report names the exact price for what you actually need."
   - q: "Is my business too small?"
     a: "Small is an advantage. One person decides, and the first fix is usually something you do every week."
   - q: "Will this replace my staff?"
@@ -58,9 +58,9 @@ What a useful free hour includes, and the signs that one is really a sales pitch
 
 I teach first. I only build when it's worth it.
 
-1. **Teach you and your team.** On your real work, in plain words, until it is part of the week. A half-day is $2,000. To keep it going is $900 a month: a monthly session, a line for questions between, and a written cheat sheet each month.
-2. **Set up what you already have.** ChatGPT, Copilot, your inbox, your spreadsheets. Shaped to how you work, so the job gets done without you babysitting it. Setup is $1,500 to $3,500.
-3. **Build something only when nothing else fits.** A tool made for your business, on your own accounts, from $5,000. Anything I build is yours. You can remove my access at any time. No lock-in. Every build comes with a care plan for the first 12 months, so it keeps working after I leave. Pay up front: $5,000, then $600 a month for care. Or spread it out: $2,500 up front, then $900 a month, 12-month minimum.
+1. **Teach you and your team.** On your real work, in plain words, until it is part of the week. A half-day is $2,000.
+2. **Set up what you already have.** ChatGPT, Copilot, your inbox, your spreadsheets. Shaped to how you work, so the job gets done without you babysitting it. Setup is $3,500.
+3. **Build something only when nothing else fits.** A tool made for your business, on your own accounts, from $5,000. Anything I build is yours. You can remove my access at any time. No lock-in. Every build comes with a care plan for the first 12 months, so it keeps working after I leave. It is $5,000, then $600 a month for care.
 
 If you'd rather try it yourself first, [How to start using AI in your small business](/answers/how-to-start-using-ai-in-a-small-business/) is the step-by-step.
 
@@ -72,16 +72,14 @@ Your information stays on your accounts, not mine. What is reasonable to type in
 
 ## What it costs
 
-All prices are in Canadian dollars, plus tax. The report names the exact price for what you need. It also says when something is not worth paying for.
+All prices are in Canadian dollars, plus tax. Every job is priced on scope and what we're teaching, so these are starting points. The report names the exact price for what you need. It also says when something is not worth paying for.
 
 | What | What you get | Price |
 | --- | --- | --- |
 | The first hour | An hour at your place, plus the written report | Free |
 | Teaching | A half-day with you and your team, on your real work | $2,000 |
-| Keep it going | A monthly session, a line for questions between, and a written cheat sheet | $900 a month |
-| Setup | Tools you already pay for, set up to fit how you work | $1,500 to $3,500 |
-| Custom builds, paid up front | Built for your business, with a care plan for the first 12 months. You own it outright | $5,000, then $600 a month for care |
-| Custom builds, spread out | The same build and care, paid over time | $2,500 up front, then $900 a month, 12-month minimum |
+| Setup | Tools you already pay for, set up to fit how you work | $3,500 |
+| Custom builds | Built for your business, with a care plan for the first 12 months. You own it outright | $5,000, then $600 a month for care |
 
 The longer answer, including what the tools themselves cost, is in [What does AI help cost a small business in BC?](/answers/what-does-ai-help-cost-small-business-bc/). Which ChatGPT plan to buy, in Canadian dollars, is in [ChatGPT for small business: which plan, and what it costs in CAD](/answers/chatgpt-for-small-business-plan-cost-cad/).
 
