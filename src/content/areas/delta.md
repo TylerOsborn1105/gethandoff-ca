@@ -12,7 +12,7 @@ faq:
   - q: "Do you come to businesses in Delta?"
     a: "Yes. The free hour is at your place in Tsawwassen, Ladner, North Delta, or elsewhere in Delta. If meeting in person is hard that week, we can do the same hour by video."
   - q: "What happens in the free hour?"
-    a: "I ask about your week, you show me a couple of things on your screen, and I teach you one thing you can use the next day. Within a day I send a one-page report: what I'd fix, what I wouldn't bother with, and what each would cost. It's yours either way. If you don't need me, I'll tell you."
+    a: "I ask about your week, you show me a couple of things on your screen, and I teach you one thing you can use the next day. Within a day I send a one-page report: three things that would improve your business, how I'd do each one, and what it costs. It's yours either way. If you don't need me, I'll tell you."
   - q: "What does it cost after the free hour?"
     a: "Teaching is $2,000 for a half-day with you and your team. Setup of tools you already pay for is $3,500. Custom builds are $5,000, then $600 a month for care for the first 12 months. All prices are Canadian dollars, plus tax. Every job is priced on scope and what we're teaching, so these are starting points. Your report names the exact price for what you actually need."
   - q: "Is my business too small?"
@@ -46,7 +46,7 @@ If quotes are the job you dread, [How to write quotes faster with AI](/answers/w
 
 ## The free first hour
 
-The first hour is free, and the usual version is at your place. I ask about your week, you show me a couple of things on your screen, and I teach you one thing you can use the next day. Within a day I send a one-page report: what I'd fix, what I wouldn't bother with, and what each would cost. It's yours either way. If you don't need me, I'll tell you.
+The first hour is free, and the usual version is at your place. I ask about your week, you show me a couple of things on your screen, and I teach you one thing you can use the next day. Within a day I send a one-page report: three things that would improve your business, how I'd do each one, and what it costs. It's yours either way. If you don't need me, I'll tell you.
 
 There are no dumb questions. Most of what people think they should already know, nobody knows.
 
