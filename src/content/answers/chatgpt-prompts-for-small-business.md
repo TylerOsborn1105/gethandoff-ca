@@ -18,7 +18,7 @@ faqs:
     a: "You can try them on a free login if names and customer details stay out. Which paid plan fits, in Canadian dollars, is on the plan page linked from the article about using ChatGPT effectively. This page does not repeat those prices."
 ---
 
-The quote from the Ladner visit is still in your notes. The follow-up never went. A review came in while you were with a customer in Tsawwassen, and it is still unanswered. These ChatGPT prompts for small business are ten you can copy for that kind of note. One job each. You check it, then you send it.
+The quote from the last site visit is still in your notes. The follow-up never went. A review came in while you were with a customer, and it is still unanswered. These ChatGPT prompts for small business are ten you can copy for that kind of note. One job each. You check it, then you send it.
 
 **The short answer:** Paste your own facts, names taken out, and ask for a short draft in words you would say. Below: a slow quote, a missed follow-up, a review, a job ad, a hard email, a price increase, a missed call, a late arrival, an unpaid invoice, and "how much, and when?"
 
@@ -29,7 +29,7 @@ How to brief the tool so the answer is not mush is in [How to use ChatGPT effect
 Use this when the visit is done and the quote has waited.
 
 ```
-I run a small [shop / clinic / studio] in [Tsawwassen / Ladner / South Surrey / White Rock].
+I run a small [shop / clinic / studio] in [your town].
 Prices are in Canadian dollars. I write short quotes.
 Do not offer a discount unless these notes say so.
 Draft a quote from the notes. Use only numbers that are there.
@@ -78,7 +78,7 @@ Read it out loud. Google's rules on deals and private details are in [How to rep
 Use this when the draft sounds like a poster, not a job.
 
 ```
-Write a job ad for a [role] at my small business in [Tsawwassen / Ladner / South Surrey / White Rock].
+Write a job ad for a [role] at my small business in [your town].
 The work is: [three real tasks]. Hours: [hours].
 Wage: [amount in CAD]. If I gave no number, write [WAGE]. Do not invent one.
 Require a licence or a car only if I listed it.
@@ -207,6 +207,6 @@ You can try them on a free login if names and customer details stay out. Which p
 
 I teach you how to use AI tools like these so you can grow your business, in person, at your place. In the free hour we run one of these on a real email of yours, and you leave with a prompt you can reuse tomorrow. There are no dumb questions.
 
-Delta is on [AI help for small businesses in Tsawwassen and Ladner](/ai-help/delta/). [South Surrey and White Rock](/ai-help/south-surrey-white-rock/) has its own page.
+The local pages are [AI help for small businesses near you](/ai-help/delta/) and [AI help in your area](/ai-help/south-surrey-white-rock/).
 
 [Book your free hour](https://calendly.com/gethandoff/handoff-free-hour).

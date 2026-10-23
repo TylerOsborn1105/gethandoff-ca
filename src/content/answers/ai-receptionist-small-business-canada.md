@@ -2,7 +2,7 @@
 title: "AI receptionist for small business Canada | Handoff"
 h1: "AI receptionist for small business Canada: worth it or not?"
 description: "An AI receptionist for small business Canada can catch the call you miss while you are with a customer. What it does, when it is worth it, and what to try first."
-dek: "Every caller gets an answer, instead of a voicemail that sits until supper. Here is when an answering tool helps you win more work, and what to try first."
+dek: "Every caller gets an answer, instead of a voicemail that sits until dinner. Here is when an answering tool helps you win more work, and what to try first."
 published: "2026-10-23"
 updated: "2026-10-23"
 draft: false
@@ -18,7 +18,7 @@ faqs:
     a: "A greeting that says when you call back, a list of who you owe a call, and a same-day text. A chat tool can draft the text. You still send it."
 ---
 
-The phone rings while you are with a client in Ladner, or with someone at the counter in Tsawwassen, and you cannot pick up. The voicemail is still there at supper. Sometimes the work has gone to whoever answered. If that is the headache, this is a plain look at an AI receptionist for small business Canada: what it does, what it cannot do, and when it is worth paying for.
+The phone rings while you are with a client, or with someone at the counter, and you cannot pick up. The voicemail is still there at dinner. Sometimes the work has gone to whoever answered. If that is the headache, this is a plain look at an AI receptionist for small business Canada: what it does, what it cannot do, and when it is worth paying for.
 
 **The short answer:** It picks up and takes a message. It can book or text only if you loaded your own prices and times. It is worth a look when missed calls are lost jobs. It is a poor buy when a clearer voicemail and a same-day call back would do it. Read the note before you treat it as fact.
 
@@ -38,7 +38,7 @@ It cannot see the job. A quote that needs a visit still needs you. If a price or
 
 **You are with clients all day, or alone at the counter.** Missed calls are often new customers. Catching the name and number can mean a booked day. Put the fee next to what one real job is worth. I will not invent that number.
 
-**You already answer.** Say when you call back, and do it the same day. That covers a lot of owners in Delta, South Surrey, and White Rock.
+**You already answer.** Say when you call back, and do it the same day. That covers a lot of local owners.
 
 **The call needs a visit, or you want the tool so you never talk to people.** It can hold the lead. It should not quote the job, and you still call back. After hours fits only when the work cannot wait until morning.
 
@@ -82,7 +82,7 @@ A greeting that says when you call back, a list of who you owe a call, and a sam
 
 I teach you how to use AI tools so you can grow your business, in person, at your place. In the free hour we look at how calls come in now, and I show you one thing you can start the next day, whether that is a better greeting, a same-day text, or a paid tool. There are no dumb questions.
 
-The Delta page is [AI help for small businesses in Tsawwassen and Ladner](/ai-help/delta/). [South Surrey and White Rock](/ai-help/south-surrey-white-rock/) is on its own page.
+The local pages are [AI help for small businesses near you](/ai-help/delta/) and [AI help in your area](/ai-help/south-surrey-white-rock/).
 
 [Book your free hour](https://calendly.com/gethandoff/handoff-free-hour).
 

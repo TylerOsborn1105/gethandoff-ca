@@ -42,7 +42,7 @@ The Office of the Information and Privacy Commissioner for BC has plain-language
 
 **2. Never paste in the high-risk stuff.** Social insurance numbers, credit card or bank details, passwords, health information, and anything about kids. There's almost never a reason to, and it's where real harm happens.
 
-**3. Take the names out when you can.** "The customer on the Ladner job wants to move their appointment" works just as well as their full name and address. For most drafting work, the tool doesn't need to know who the person is.
+**3. Take the names out when you can.** "The customer on the Main Street job wants to move their appointment" works just as well as their full name and address. For most drafting work, the tool doesn't need to know who the person is.
 
 **4. One login per person.** No shared passwords. When someone leaves, you turn off their access and their history goes with it.
 

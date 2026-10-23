@@ -16,11 +16,11 @@ faqs:
     a: "Google says the reply appears as your business, and your personal name is not shown as the replier. Google's tips for negative reviews also suggest a sign-off with your name or initials inside the words of the reply."
   - q: "Can I offer a discount in a Google review reply?"
     a: "Google says to avoid using the reply to offer deals or promotions. Google also says that offering incentives in exchange for a review, a changed review, or removal of a negative review is prohibited."
-  - q: "How do I reply to a bad review for a shop in Tsawwassen or Ladner?"
+  - q: "How do I reply to a bad review for a local shop?"
     a: "Draft a short reply that uses their name, names the specific problem, skips private details, and asks them to phone or email if it needs a longer talk. Read it out loud, then post it yourself. The prompts on this page are written for that."
 ---
 
-A Google review comes in while you are with a customer. You mean to answer it. Then the day ends, and the review is still sitting there. If that is your week in Tsawwassen, Ladner, South Surrey, or White Rock, this page shows you how to reply to Google reviews with ChatGPT. The draft should sound like you. You post it yourself.
+A Google review comes in while you are with a customer. You mean to answer it. Then the day ends, and the review is still sitting there. If that is your week, this page shows you how to reply to Google reviews with ChatGPT. The draft should sound like you. You post it yourself.
 
 **The short answer:** copy the review, ask for a short draft in your own words, read it out loud, then paste the reply into Google. Skip the deal. Skip any private detail that was not already in the review.
 
@@ -59,7 +59,7 @@ Google's tips page says replies are public, and that reviews show next to your B
 Start with a short note about how you talk. You paste it every time, above the review. Write it the way you would explain it to a new hire.
 
 ```
-I run a small [shop, clinic, or trade] in [Tsawwassen, Ladner, South Surrey, or White Rock].
+I run a small [shop, clinic, or trade] in [your town].
 I write the way I talk at the counter. Short, friendly, and plain.
 I sign replies with [your name].
 I do not use slogans.
@@ -142,17 +142,17 @@ Google says the reply appears as your business, and your personal name is not sh
 
 Google says to avoid using the reply to offer deals or promotions. Google also says that offering incentives in exchange for a review, a changed review, or removal of a negative review is prohibited.
 
-### How do I reply to a bad review for a shop in Tsawwassen or Ladner?
+### How do I reply to a bad review for a local shop?
 
 Draft a short reply that uses their name, names the specific problem, skips private details, and asks them to phone or email if it needs a longer talk. Read it out loud, then post it yourself. The prompts on this page are written for that.
 
 ## If the pile of reviews is the job you dread
 
-If you want to write the voice note together, and send one real reply while someone sits with you, that is a good use of the free hour. Handoff in Tsawwassen comes to businesses in Tsawwassen, Ladner, South Surrey, and White Rock. You leave with a note you can paste the next time a review comes in.
+If you want to write the voice note together, and send one real reply while someone sits with you, that is a good use of the free hour. Handoff comes to local businesses. You leave with a note you can paste the next time a review comes in.
 
 If you sell real estate, [AI tools for BC real estate agents](/answers/ai-tools-for-real-estate-agents-bc/) covers listing write-ups and what to keep out of the tool.
 
-The local pages are [AI help for Delta, Tsawwassen and Ladner](/ai-help/delta/) and [AI help for South Surrey and White Rock](/ai-help/south-surrey-white-rock/).
+The local pages are [AI help for small businesses near you](/ai-help/delta/) and [AI help in your area](/ai-help/south-surrey-white-rock/).
 
 [Book your free hour](https://calendly.com/gethandoff/handoff-free-hour).
 

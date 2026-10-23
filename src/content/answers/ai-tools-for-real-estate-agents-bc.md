@@ -16,8 +16,8 @@ faqs:
     a: "Yes. BCFSA says to label photos or videos that were altered or enhanced, so a buyer is not misled. Virtual staging may be acceptable with that label. Advertising still must not be false or misleading."
   - q: "Does PIPA apply if I work on my own in BC?"
     a: "The Office of the Information and Privacy Commissioner for BC says PIPA applies to private-sector organizations, including an individual carrying on a commercial activity. Personal information is information about an identifiable person. You need a reasonable purpose, and reasonable safeguards. This page is not legal advice."
-  - q: "Can Handoff in Tsawwassen help an agent in Delta or South Surrey?"
-    a: "Yes. The free first hour is at your place in Tsawwassen, Ladner, South Surrey, or White Rock. You bring a real set of notes, and you leave with one way to draft the writing while the client details stay out."
+  - q: "Can Handoff help a local agent?"
+    a: "Yes. The free first hour is at your place. You bring a real set of notes, and you leave with one way to draft the writing while the client details stay out."
 ---
 
 The notes from the showing are still in your phone. The buyer asked a question you have answered many times. The listing description waits until the house is quiet. For an agent in BC, an AI tool is a reasonable way to get a first draft of that writing. Client names, prices, and private conversations stay out.
@@ -134,15 +134,15 @@ Yes. BCFSA says to label photos or videos that were altered or enhanced, so a bu
 
 The Office of the Information and Privacy Commissioner for BC says PIPA applies to private-sector organizations, including an individual carrying on a commercial activity. Personal information is information about an identifiable person. You need a reasonable purpose, and reasonable safeguards. This page is not legal advice.
 
-### Can Handoff in Tsawwassen help an agent in Delta or South Surrey?
+### Can Handoff help a local agent?
 
-Yes. The free first hour is at your place in Tsawwassen, Ladner, South Surrey, or White Rock. You bring a real set of notes, and you leave with one way to draft the writing while the client details stay out.
+Yes. The free first hour is at your place. You bring a real set of notes, and you leave with one way to draft the writing while the client details stay out.
 
 ## If you want to sort a real file
 
-If you want to sit down with a real set of listing notes and sort what can go into the tool, that is a good use of the free hour. Handoff in Tsawwassen comes to you in Tsawwassen, Ladner, South Surrey, or White Rock.
+If you want to sit down with a real set of listing notes and sort what can go into the tool, that is a good use of the free hour. Handoff comes to you.
 
-The same help is written up for [Delta, Tsawwassen and Ladner](/ai-help/delta/) and for [South Surrey and White Rock](/ai-help/south-surrey-white-rock/).
+The same help is written up on the [local area page](/ai-help/delta/) and [AI help in your area](/ai-help/south-surrey-white-rock/).
 
 [Book your free hour](https://calendly.com/gethandoff/handoff-free-hour).
 

@@ -144,9 +144,9 @@ Canadian dollar prices are on the plan page linked from this article. For traini
 
 ## What if you want this done at your desk?
 
-If you want to try the brief on a real email, with someone beside you, that is a good use of the free hour. Handoff in Tsawwassen comes to your place. You leave with one way of asking that you can reuse the next morning. There are no dumb questions.
+If you want to try the brief on a real email, with someone beside you, that is a good use of the free hour. Handoff comes to your place. You leave with one way of asking that you can reuse the next morning. There are no dumb questions.
 
-What the hour covers in Delta is on [AI help for small businesses in Tsawwassen and Ladner](/ai-help/delta/).
+What the hour covers is on the [local AI help page](/ai-help/delta/).
 
 [Book your free hour](https://calendly.com/gethandoff/handoff-free-hour).
 

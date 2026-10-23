@@ -20,7 +20,7 @@ faqs:
     a: "Call the financial institution that sent it, then your local police. Report it to the Canadian Anti-Fraud Centre at 1-888-495-8501, Monday to Friday, 10 a.m. to 4:45 p.m. Eastern time. Do not send more money to someone offering to get it back."
 ---
 
-The caller sounds like your supplier and wants an e-transfer before you can think. A video looks like a customer who never walked in. Here is how to spot fake AI videos and voice scams before they cost a small business in Delta or the Lower Mainland a real payment. The same phone rings in Tsawwassen, Ladner, and the rest of the region.
+The caller sounds like your supplier and wants an e-transfer before you can think. A video looks like a customer who never walked in. Here is how to spot fake AI videos and voice scams before they cost a small business a real payment.
 
 **The short answer:** Hang up and call back on a number you already had, before any e-transfer goes out. Use a private code word with anyone who can move the business's money. A realistic AI voice or video is not proof, so check the source yourself.
 
@@ -40,7 +40,7 @@ The voice copies someone you know. The ask is an e-transfer, a one-time code, or
 
 The Anti-Fraud Centre's October 2026 page, [Spotting fraud in a changing digital landscape](https://antifraudcentre-centreantifraude.ca/features-vedette/2026/10/spotting-fraud-reperer-fraude-eng.htm), says AI can imitate the voice of someone you know, and can create or alter images and videos. A result that looks real is not proof. Caller ID can be manipulated. Warning signs include a known person using a new number to ask for money, pressure to act now, and a request to keep it secret.
 
-The Cyber Centre's July 2026 guide says a clone can start from a small audio sample, and that audio alone is not proof. Confirm the request on a second channel. The [23 June 2025 advisory](https://antifraudcentre-centreantifraude.ca/news-nouvelles/2025/2025-06-23-eng.htm) describes this pattern against executives and senior officials, not as a Delta tally, and lists a flat tone, odd noise, or choppy sentences as reasons to stop. Get Cyber Safe's [vishing page](https://www.getcybersafe.gc.ca/en/blogs/what-vishing), modified 21 November 2023, says not to use callback or a number the caller gives you. The payment bulletin says criminals both request e-transfers and send fake e-transfer messages.
+The Cyber Centre's July 2026 guide says a clone can start from a small audio sample, and that audio alone is not proof. Confirm the request on a second channel. The [23 June 2025 advisory](https://antifraudcentre-centreantifraude.ca/news-nouvelles/2025/2025-06-23-eng.htm) describes this pattern against executives and senior officials, not as a local tally, and lists a flat tone, odd noise, or choppy sentences as reasons to stop. Get Cyber Safe's [vishing page](https://www.getcybersafe.gc.ca/en/blogs/what-vishing), modified 21 November 2023, says not to use callback or a number the caller gives you. The payment bulletin says criminals both request e-transfers and send fake e-transfer messages.
 
 The fix: hang up, then call the number on your last real invoice or in your contacts. If that person did not ask for the transfer, do not send it.
 
@@ -57,7 +57,7 @@ The June 2025 advisory says to watch for unnatural movement, mismatched sound, o
 3. Use a number you already had: the last invoice, your contacts, or the site you typed yourself.
 4. Ask, "Did you just call about an invoice?" If the answer is no, stop.
 
-The same rule covers Delta and the rest of the Lower Mainland. The incoming call does not get to choose the number you trust.
+The same rule covers every business. The incoming call does not get to choose the number you trust.
 
 ## What is a code word for?
 
@@ -73,9 +73,9 @@ Follow [What to do if you're a victim of fraud](https://antifraudcentre-centrean
 
 ## What if you want this practised at your desk?
 
-If you want the call-back rule and a code word set up against your real supplier list, that is a good use of the free hour. Handoff in Tsawwassen comes to the desk where the phone rings. You leave with one habit the next caller has to get past. There are no dumb questions.
+If you want the call-back rule and a code word set up against your real supplier list, that is a good use of the free hour. Handoff comes to the desk where the phone rings. You leave with one habit the next caller has to get past. There are no dumb questions.
 
-What a useful free hour includes, and the signs it is only a pitch, is in [What a free AI assessment should include, and the red flags](/answers/free-ai-assessment-what-to-expect/). The local page is [AI help for small businesses in Tsawwassen and Ladner](/ai-help/delta/).
+What a useful free hour includes, and the signs it is only a pitch, is in [What a free AI assessment should include, and the red flags](/answers/free-ai-assessment-what-to-expect/). The local page is [AI help for small businesses near you](/ai-help/delta/).
 
 [Book your free hour](https://calendly.com/gethandoff/handoff-free-hour).
 
