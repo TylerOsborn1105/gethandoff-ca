@@ -114,9 +114,9 @@ Google calls it Gemini Notebook, formerly NotebookLM. It answers from your sourc
 
 ## What if you want this done at your desk?
 
-If you want to try one real reply on your own Gmail, with someone beside you, that is a good use of the free hour. Handoff in Tsawwassen comes to your place. There are no dumb questions.
+If you want to try one real reply on your own Gmail, with someone beside you, that is a good use of the free hour. Handoff comes to your place. There are no dumb questions.
 
-What that hour includes, and the signs it is only a pitch, is in [What a free AI assessment should include, and the red flags](/answers/free-ai-assessment-what-to-expect/). The local page is [AI help for small businesses in Tsawwassen and Ladner](/ai-help/delta/).
+What that hour includes, and the signs it is only a pitch, is in [What a free AI assessment should include, and the red flags](/answers/free-ai-assessment-what-to-expect/). The local page is [AI help for small businesses near you](/ai-help/delta/).
 
 [Book your free hour](https://calendly.com/gethandoff/handoff-free-hour).
 

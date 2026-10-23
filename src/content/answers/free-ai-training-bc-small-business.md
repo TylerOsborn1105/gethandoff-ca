@@ -58,7 +58,7 @@ The fix is the prompting unit, then one task from the shop. A free module is a s
 
 [LinkedIn Learning](https://www.fvrl.bc.ca/linkedin-learning) is video courses in business, software, technology, and creative skills, at the library or at home. The library's [2 July 2025 blog](https://www.fvrl.bc.ca/blog/congratulations-2025-graduates) says this is at no cost with a card. It does not say the catalogue is a set of AI courses. The same blog links [Beyond the Buzz: The Future of AI Adoption](https://youtu.be/iMbZVx6wk-U), an overview of how AI works, including tools such as ChatGPT. [AI and You](https://www.fvrl.bc.ca/events/25306) is listed for 5 November 2026, 11:00 a.m. to 12:00 p.m., at Hope Library, covering emails, accuracy, and privacy. The page lists no price. Its presenter note is about helping seniors, and Hope is not Delta.
 
-The fix, in Tsawwassen, Ladner, or North Delta, is the card. Open one course that matches this week's job, and stop there.
+The fix is the card. Open one course that matches this week's job, and stop there.
 
 ## What is the Delta Chamber of Commerce listing?
 
@@ -76,9 +76,9 @@ If the only value is a product at the end, that is a different kind of hour. The
 
 ## What if you want this done at your desk?
 
-If you want one real task taught on your own screen, with someone beside you, that is a good use of the free hour. Handoff in Tsawwassen comes to your place. You leave with that one way of working. There are no dumb questions.
+If you want one real task taught on your own screen, with someone beside you, that is a good use of the free hour. Handoff comes to your place. You leave with that one way of working. There are no dumb questions.
 
-What the hour covers in Delta is on [AI help for small businesses in Tsawwassen and Ladner](/ai-help/delta/).
+What the hour covers is on the [local AI help page](/ai-help/delta/).
 
 [Book your free hour](https://calendly.com/gethandoff/handoff-free-hour).
 
@@ -102,7 +102,7 @@ Delta is on the library's municipality list. Signing up is free, in person, with
 
 ### Where does a free first hour with Handoff fit?
 
-After you pick one real task. Handoff in Tsawwassen comes to your desk and teaches that task on your own screen. The first hour is free.
+After you pick one real task. Handoff comes to your desk and teaches that task on your own screen. The first hour is free.
 
 ## Sources
 

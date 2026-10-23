@@ -134,15 +134,15 @@ Yes. BCFSA says to label photos or videos that were altered or enhanced, so a bu
 
 The Office of the Information and Privacy Commissioner for BC says PIPA applies to private-sector organizations, including an individual carrying on a commercial activity. Personal information is information about an identifiable person. You need a reasonable purpose, and reasonable safeguards. This page is not legal advice.
 
-### Can Handoff in Tsawwassen help an agent in Delta or South Surrey?
+### Can Handoff help a local agent?
 
-Yes. The free first hour is at your place in Tsawwassen, Ladner, South Surrey, or White Rock. You bring a real set of notes, and you leave with one way to draft the writing while the client details stay out.
+Yes. The free first hour is at your place. You bring a real set of notes, and you leave with one way to draft the writing while the client details stay out.
 
 ## If you want to sort a real file
 
-If you want to sit down with a real set of listing notes and sort what can go into the tool, that is a good use of the free hour. Handoff in Tsawwassen comes to you in Tsawwassen, Ladner, South Surrey, or White Rock.
+If you want to sit down with a real set of listing notes and sort what can go into the tool, that is a good use of the free hour. Handoff comes to you.
 
-The same help is written up for [Delta, Tsawwassen and Ladner](/ai-help/delta/) and for [South Surrey and White Rock](/ai-help/south-surrey-white-rock/).
+The same help is written up on the [local area page](/ai-help/delta/) and [one more nearby area page](/ai-help/south-surrey-white-rock/).
 
 [Book your free hour](https://calendly.com/gethandoff/handoff-free-hour).
 
