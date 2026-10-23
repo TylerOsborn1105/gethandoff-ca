@@ -1,0 +1,37 @@
+/* Example report card: compact rows that open on hover, keyboard focus or tap.
+   Everything stays in the page; only the problem and fix lines fold away. */
+.rfoot.rex{margin-top:4px}
+html.js .report.cx .nv{gap:14px}
+html.js .report.cx .nv .pr{margin-left:auto}
+html.js .report.cx .nv .cv{flex:0 0 auto;align-self:flex-start;margin-top:12px}
+html.js .report.cx .more .nv .cv{margin-left:auto;margin-top:9px}
+@media (max-width:600px){html.js .report.cx .nv{gap:7px}
+html.js .report.cx .hb{padding-left:8px;padding-right:8px}
+html.js .report.cx .nv .pl{white-space:normal;max-width:64px;margin-left:auto;text-align:right;line-height:1.25}}
+@media (max-width:600px){html.js .report.cx{min-width:0;max-width:100%;padding-left:18px;padding-right:18px}
+html.js .report.cx .hb{font-size:12px;white-space:normal}
+html.js .report.cx .hl{min-width:0}
+html.js .report.cx .hb{text-wrap:balance;width:fit-content}}
+@media (min-width:601px){html.js .report.cx .pwhy{max-width:none;white-space:nowrap}}
+html.js .report.cx .nr{grid-template-columns:1fr;gap:0;padding:0;position:relative;isolation:isolate;outline:none;-webkit-tap-highlight-color:transparent;cursor:default}
+html.js .report.cx .nr::before{content:'';position:absolute;inset:0 -12px;border-radius:8px;background:rgba(29,29,31,0.026);opacity:0;z-index:-1;transition:opacity 400ms cubic-bezier(.45,0,.2,1)}
+html.js .report.cx .nv{order:-1;flex-direction:row;flex-wrap:nowrap;align-items:center;justify-content:space-between;gap:16px;padding:14px 0;text-align:left}
+html.js .report.cx .nv .pr{flex:0 0 auto;align-items:flex-end;text-align:right}
+html.js .report.cx .pwhy{text-align:right;margin-left:auto;max-width:170px}
+@media (max-width:600px){html.js .report.cx .pwhy{max-width:112px}html.js .report.cx{padding-left:22px;padding-right:22px}html.js .report.cx .pwhy{max-width:100px}html.js .report.cx .nv{align-items:flex-start}html.js .report.cx .hl{margin-top:1px;gap:8px}html.js .report.cx .nr::before{inset:0 -10px}}
+html.js .report.cx .hl{display:inline-flex;align-items:center;gap:10px}
+html.js .report.cx .cv{width:6px;height:6px;border-right:1.4px solid currentColor;border-bottom:1.4px solid currentColor;color:var(--ink2);opacity:0.55;transform:translateY(-2px) rotate(45deg);transition:transform 400ms cubic-bezier(.45,0,.2,1),opacity 400ms cubic-bezier(.45,0,.2,1)}
+html.js .report.cx .nt{display:grid;grid-template-rows:0fr;transition:grid-template-rows 400ms cubic-bezier(.45,0,.2,1)}
+html.js .report.cx .ni{min-height:0;overflow:hidden;display:flow-root;opacity:0;transform:translateY(-4px);transition:opacity 240ms cubic-bezier(.45,0,.2,1),transform 400ms cubic-bezier(.45,0,.2,1)}
+html.js .report.cx .ni>p:last-child{margin-bottom:16px}
+html.js .report.cx .more{border-top:1px solid #000;margin-top:0}
+html.js .report.cx .mlab{font-size:15px;color:var(--ink2)}
+.msum{margin:0 0 6px;font-size:16px;line-height:1.4;color:var(--title)}.msum em{font-style:normal;color:var(--ink2);font-size:14px}
+.report .more .pnote{margin:0}
+/* open state */
+html.js .report.cx .nr.open .nt{grid-template-rows:1fr;transition:grid-template-rows 500ms cubic-bezier(.22,1,.36,1) 80ms}
+html.js .report.cx .nr.open .ni{opacity:1;transform:none;transition:opacity 500ms cubic-bezier(.22,1,.36,1) 140ms,transform 500ms cubic-bezier(.22,1,.36,1) 80ms}
+html.js .report.cx .nr.open::before{opacity:1;transition:opacity 500ms cubic-bezier(.22,1,.36,1) 80ms}
+html.js .report.cx .nr.open .cv{opacity:.85;transform:translateY(1px) rotate(225deg);transition:transform 500ms cubic-bezier(.22,1,.36,1) 80ms,opacity 500ms cubic-bezier(.22,1,.36,1)}
+html.js .report.cx .nr:focus-visible::before{opacity:1;box-shadow:0 0 0 2px rgba(180,70,31,.35)}
+@media (prefers-reduced-motion:reduce){html.js .report.cx *,html.js .report.cx .nr::before{transition:none!important}}
