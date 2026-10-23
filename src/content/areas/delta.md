@@ -84,3 +84,5 @@ All prices are in Canadian dollars, plus tax. The report names the exact price f
 | Custom builds, spread out | The same build and care, paid over time | $2,500 up front, then $900 a month, 12-month minimum |
 
 The longer answer, including what the tools themselves cost, is in [What does AI help cost a small business in BC?](/answers/what-does-ai-help-cost-small-business-bc/). Which ChatGPT plan to buy, in Canadian dollars, is in [ChatGPT for small business: which plan, and what it costs in CAD](/answers/chatgpt-for-small-business-plan-cost-cad/).
+
+Free lessons a BC owner can actually use are in [Free AI training for small business in BC: what's actually free](/answers/free-ai-training-bc-small-business/). How to check a cloned voice or a fake video before money moves is in [How to spot fake AI videos and voice scams aimed at your small business](/answers/spot-ai-fakes-scams-small-business/).

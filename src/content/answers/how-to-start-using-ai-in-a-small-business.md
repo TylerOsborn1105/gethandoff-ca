@@ -94,3 +94,5 @@ That's the point where a few hours of setup can save a few hours every week. Bef
 <!-- TYLER: Close with a short, real example from a free hour or your own work: what the first job was, and what changed. Numbers if you have them. -->
 
 If the tool you already opened is ChatGPT, and the answer came back generic, [How to use ChatGPT effectively in a small business](/answers/how-to-use-chatgpt-effectively-small-business/) is the page for the asking itself.
+
+If you want the free lessons first, [Free AI training for small business in BC: what's actually free](/answers/free-ai-training-bc-small-business/) lists what a BC owner can use, and what only looks free.
