@@ -22,7 +22,7 @@ const {
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 const markHtml = mark.replace('<svg ', '<svg class="tile" aria-hidden="true" ');
 const areaLinks = areas().filter((a) => !a.data.noindex);
-const book = 'https://calendly.com/tyler-echelontrades/handoff-free-hour';
+const book = 'https://calendly.com/gethandoff/handoff-free-hour';
 const updatedLabel = updated
   ? new Date(updated + 'T12:00:00').toLocaleDateString('en-CA', { month: 'long', year: 'numeric' })
   : '';

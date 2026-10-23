@@ -52,7 +52,7 @@ There are no dumb questions. Most of what people think they should already know,
 
 What a useful free hour includes, and the signs that one is really a sales pitch, is in [What a free AI assessment should include](/answers/free-ai-assessment-what-to-expect/).
 
-[Book your free hour](https://calendly.com/tyler-echelontrades/handoff-free-hour), or call or text [604 203 8575](tel:+16042038575).
+[Book your free hour](https://calendly.com/gethandoff/handoff-free-hour), or call or text [604 203 8575](tel:+16042038575).
 
 ## How sessions work after that
 

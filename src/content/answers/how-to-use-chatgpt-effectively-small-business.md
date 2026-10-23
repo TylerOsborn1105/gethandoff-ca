@@ -148,7 +148,7 @@ If you want to try the brief on a real email, with someone beside you, that is a
 
 What the hour covers in Delta is on [AI help for small businesses in Tsawwassen and Ladner](/ai-help/delta/).
 
-[Book your free hour](https://calendly.com/tyler-echelontrades/handoff-free-hour).
+[Book your free hour](https://calendly.com/gethandoff/handoff-free-hour).
 
 ## Sources
 

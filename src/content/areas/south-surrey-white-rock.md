@@ -39,7 +39,7 @@ You don't need to prepare a presentation. The useful part is the real inbox, the
 
 How to tell a useful free hour from a sales pitch is in [What a free AI assessment should include](/answers/free-ai-assessment-what-to-expect/).
 
-[Book your free hour](https://calendly.com/tyler-echelontrades/handoff-free-hour), or call or text [604 203 8575](tel:+16042038575).
+[Book your free hour](https://calendly.com/gethandoff/handoff-free-hour), or call or text [604 203 8575](tel:+16042038575).
 
 ## The admin it takes on
 

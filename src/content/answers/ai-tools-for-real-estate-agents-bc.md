@@ -144,7 +144,7 @@ If you want to sit down with a real set of listing notes and sort what can go in
 
 The same help is written up for [Delta, Tsawwassen and Ladner](/ai-help/delta/) and for [South Surrey and White Rock](/ai-help/south-surrey-white-rock/).
 
-[Book your free hour](https://calendly.com/tyler-echelontrades/handoff-free-hour).
+[Book your free hour](https://calendly.com/gethandoff/handoff-free-hour).
 
 ## Sources
 

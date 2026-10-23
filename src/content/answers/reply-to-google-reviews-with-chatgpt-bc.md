@@ -154,7 +154,7 @@ If you sell real estate, [AI tools for BC real estate agents](/answers/ai-tools-
 
 The local pages are [AI help for Delta, Tsawwassen and Ladner](/ai-help/delta/) and [AI help for South Surrey and White Rock](/ai-help/south-surrey-white-rock/).
 
-[Book your free hour](https://calendly.com/tyler-echelontrades/handoff-free-hour).
+[Book your free hour](https://calendly.com/gethandoff/handoff-free-hour).
 
 ## Sources
 
