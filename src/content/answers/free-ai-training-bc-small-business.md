@@ -80,7 +80,7 @@ If you want one real task taught on your own screen, with someone beside you, th
 
 What the hour covers in Delta is on [AI help for small businesses in Tsawwassen and Ladner](/ai-help/delta/).
 
-[Book your free hour](https://calendly.com/tyler-echelontrades/handoff-free-hour).
+[Book your free hour](https://calendly.com/gethandoff/handoff-free-hour).
 
 ## Questions owners ask
 

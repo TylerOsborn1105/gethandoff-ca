@@ -77,7 +77,7 @@ If you want the call-back rule and a code word set up against your real supplier
 
 What a useful free hour includes, and the signs it is only a pitch, is in [What a free AI assessment should include, and the red flags](/answers/free-ai-assessment-what-to-expect/). The local page is [AI help for small businesses in Tsawwassen and Ladner](/ai-help/delta/).
 
-[Book your free hour](https://calendly.com/tyler-echelontrades/handoff-free-hour).
+[Book your free hour](https://calendly.com/gethandoff/handoff-free-hour).
 
 ## Questions owners ask
 

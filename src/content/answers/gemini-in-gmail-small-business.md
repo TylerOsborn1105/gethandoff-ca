@@ -118,7 +118,7 @@ If you want to try one real reply on your own Gmail, with someone beside you, th
 
 What that hour includes, and the signs it is only a pitch, is in [What a free AI assessment should include, and the red flags](/answers/free-ai-assessment-what-to-expect/). The local page is [AI help for small businesses in Tsawwassen and Ladner](/ai-help/delta/).
 
-[Book your free hour](https://calendly.com/tyler-echelontrades/handoff-free-hour).
+[Book your free hour](https://calendly.com/gethandoff/handoff-free-hour).
 
 ## Sources
 
