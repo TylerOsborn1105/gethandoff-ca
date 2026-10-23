@@ -2,7 +2,7 @@
 title: "AI help for small businesses in Vancouver | Handoff"
 h1: "AI help for small businesses in Vancouver"
 description: "Your first hour is free. I come to your place in Vancouver and teach you how to use AI tools so you can grow your business."
-dek: "Faster replies, quotes out the same day, and no missed call-backs. I teach you how, in person, at your place in Vancouver."
+dek: "Faster replies, quotes out the same day, and every lead answered in minutes. I teach you how, in person, at your place in Vancouver."
 place: "Vancouver"
 served: ["Vancouver"]
 updated: "2026-10-23"
@@ -21,7 +21,7 @@ faq:
     a: "No. Your team learns to use AI on the busywork, so they can spend more time with customers and growing the business."
 ---
 
-I teach you how to use AI tools so you can grow your business. Customers get answers in minutes. Quotes go out the same day. Nobody waiting on a call back gets forgotten. I come to your place in Vancouver, and the first hour is free.
+I teach you how to use AI tools so you can grow your business. Customers get answers in minutes. Quotes go out the same day. Every lead gets answered in minutes, day or night. I come to your place in Vancouver, and the first hour is free.
 
 ## Who this is for
 
@@ -45,7 +45,7 @@ How to tell a useful free hour from a sales pitch is in [What a free AI assessme
 
 - **Faster replies, happier customers.** Customers get a clear, friendly answer in minutes, in your words, instead of you starting from scratch every time. I set up AI with your prices, policies and tone, then teach your team to use it.
 - **Quotes out while the lead is hot.** Quotes go out the same day, while the customer is still engaged, instead of piling up for a late night. I build you a simple quoting system and teach you to run it. You still check every number.
-- **No more missed call-backs.** Every customer who's waiting on you gets a call back, instead of slipping through the cracks. Each morning you get a short list of who to call and why.
+- **Every lead answered in minutes, day or night.** Every new enquiry gets a reply right away, in your words, and the warm ones get booked, instead of waiting until you're free. I build automations that watch your website, email and messages around the clock, and teach you to run them.
 
 More everyday examples are on the [admin jobs](/answers/admin-jobs-to-hand-off/) page, and [How to write quotes faster with AI](/answers/write-quotes-faster-with-ai/) goes step by step.
 
