@@ -1,7 +1,7 @@
 ---
-title: "Which ChatGPT plan for a small business, in CAD | Handoff"
+title: "ChatGPT pricing in Canada: every plan in CAD | Handoff"
 h1: "ChatGPT for small business: which plan, and what it costs in CAD"
-description: "Which ChatGPT plan a small business should buy, with OpenAI's prices in Canadian dollars. A plain guide from Handoff, Delta BC."
+description: "ChatGPT in Canada: Plus is CA$25 a month, Go CA$11, Business CA$27 per user. Which plan a small business needs, with OpenAI's own CAD prices."
 dek: "Most owners either pay for a plan they don't need, or stay on a free login that isn't meant for the whole team. Here's which plan fits, in Canadian dollars."
 published: "2026-10-08"
 updated: "2026-10-08"

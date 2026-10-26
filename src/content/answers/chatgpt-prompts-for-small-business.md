@@ -201,7 +201,7 @@ Paste a short sample of something you were happy to send, and cut lines you woul
 
 ### Do I need a paid ChatGPT plan to use these?
 
-You can try them on a free login if names and customer details stay out. Which paid plan fits, in Canadian dollars, is on the plan page linked from the article about using ChatGPT effectively. This page does not repeat those prices.
+You can try them on a free login if names and customer details stay out. Which paid plan fits, in Canadian dollars, is on [ChatGPT pricing in Canada, plan by plan](/answers/chatgpt-for-small-business-plan-cost-cad/). This page does not repeat those prices.
 
 ## Want to try one on a real note?
 
