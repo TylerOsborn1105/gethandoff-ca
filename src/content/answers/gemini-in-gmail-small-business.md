@@ -28,7 +28,7 @@ The thread from Friday is still unanswered, and the file they mean is in Drive u
 
 *Prices, plan names, and feature lists below are from Google's pages, checked on 16 October 2026. If a button has moved, follow the help page.*
 
-If the office runs on Microsoft 365, start with [Copilot or ChatGPT: which one for a small office?](/answers/copilot-or-chatgpt-small-office/). For other jobs beyond the inbox, see [Five admin jobs any small business can hand off this month](/answers/admin-jobs-to-hand-off/). This page is for Gmail and Drive.
+If the office runs on Microsoft 365, start with [Copilot or ChatGPT: which one for a small office?](/answers/copilot-or-chatgpt-small-office/). For other jobs beyond the inbox, see [Five admin jobs any small business can hand off this month](/answers/admin-jobs-to-hand-off/). This page is for Gmail and Drive. If you're weighing a ChatGPT subscription instead, [ChatGPT plans and prices in Canadian dollars](/answers/chatgpt-for-small-business-plan-cost-cad/) lays out each plan.
 
 ## Where do you find Gemini in Gmail?
 

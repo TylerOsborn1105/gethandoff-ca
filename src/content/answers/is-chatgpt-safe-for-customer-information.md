@@ -38,7 +38,7 @@ The Office of the Information and Privacy Commissioner for BC has plain-language
 
 ## Five rules that cover most of the risk
 
-**1. Use a business plan for business work.** If customer information is going in, use a work account on a business plan, not your personal free login. It's the single biggest improvement you can make.
+**1. Use a business plan for business work.** If customer information is going in, use a work account on a business plan, not your personal free login. It's the single biggest improvement you can make. If ChatGPT is your tool, [what each ChatGPT plan costs in Canadian dollars](/answers/chatgpt-for-small-business-plan-cost-cad/) shows which one includes the business workspace.
 
 **2. Never paste in the high-risk stuff.** Social insurance numbers, credit card or bank details, passwords, health information, and anything about kids. There's almost never a reason to, and it's where real harm happens.
 
