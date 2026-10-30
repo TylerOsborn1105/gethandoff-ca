@@ -70,6 +70,8 @@ Keep these out, unless the client has given informed consent and you are certain
 
 The version for any small business is in [Is ChatGPT safe for my customers' information?](/answers/is-chatgpt-safe-for-customer-information/).
 
+A bookkeeper's version of that split, for the receipt chase and the follow-up, is in [AI for bookkeepers in BC](/answers/ai-for-bookkeepers-bc/).
+
 Ask your managing broker what the brokerage allows before you paste a file. The guideline says a brokerage should have a clear policy on AI tools and on client information.
 
 ## What does PIPA expect of you?
